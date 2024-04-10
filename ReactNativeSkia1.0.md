@@ -424,4 +424,4 @@ In a nutshell, React Native Skia V1.0 brings five fresh features to the table. G
 
 Stay tuned with the **#NotJustDev** Newsletter for more content like this.
 
-### The News Letter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).
+### The newsletter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).
