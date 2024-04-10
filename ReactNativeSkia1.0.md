@@ -358,7 +358,7 @@ In the above transformation code, we used some calculations. Let’s try to unde
 
 - The **r** value calculates the rotation **angle** based on the sprite’s position relative to the center point (pos).
 
-Now bringing It all together through <Atlas /> API.
+Now bringing It all together through \<Atlas /> API.
 
 ```javascript
 // Imports....
