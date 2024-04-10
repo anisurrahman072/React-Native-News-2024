@@ -56,7 +56,7 @@ The Paragraph API in React Native Skia allows you to create sophisticated text l
 
 Let’s start by creating the below paragraph using custom fonts.
 
-![](https://cdn-images-1.medium.com/max/5260/1*8tVN82t5Rnu8ihw0kzVMNA.png)
+![](./images/ReactNativeSkia1.0/paragraph.png)
 
 To do this you have to add one or two custom fonts in your React Native app. For your information, we will use **“Roboto”** & **“BungeeSpice”** fonts for this example.
 
@@ -147,7 +147,7 @@ export default function RichText() {
 
 Now call this <RichText /> from anywhere in the app. You will see an output like below.
 
-![](https://cdn-images-1.medium.com/max/NaN/1*8tVN82t5Rnu8ihw0kzVMNA.png)
+![](./images/ReactNativeSkia1.0/paragraph.png)
 
 Below is the full code together to build paragraphs using custom fonts.
 
@@ -258,7 +258,7 @@ The Atlas component has 3 major attributes. These are below 👇
 
 Let’s create an **Atlas** component like below & understand each of its parts.
 
-![](https://cdn-images-1.medium.com/max/5260/1*WYZ-vKi1PyltQWUeWQIqcw.png)
+![](./images/ReactNativeSkia1.0/atlas.png)
 
 First of all, import all the dependencies.
 
@@ -383,7 +383,7 @@ export default ImageWithAtlas = () => {
 
 Now you can call the <ImageWithAtlas /> component from anywhere in your app & you will see an output like below.
 
-![](https://cdn-images-1.medium.com/max/NaN/1*WYZ-vKi1PyltQWUeWQIqcw.png)
+![](./images/ReactNativeSkia1.0/atlas.png)
 
 ### Efficient Lottie Animations with RN Skottie and RN Skia
 
