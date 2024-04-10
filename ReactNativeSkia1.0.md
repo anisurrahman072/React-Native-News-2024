@@ -149,7 +149,7 @@ export default function RichText() {
 }
 ```
 
-Now call this \<RichText /> from anywhere in the app. You will see an output like below.
+Now call this \<RichText /> component from anywhere in the app. You will see an output like below.
 
 ![](./images/ReactNativeSkia1.0/paragraph.png)
 
