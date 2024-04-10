@@ -36,7 +36,7 @@ There is tremendous potential in React Native Skia. Let’s explore some common 
 
 - “React Native Skia” is using **JSI**. JSI (Javascript Interface) is written in C++ & it is the new architecture model in React Native which dropped the old **“Bridge”** architecture from React Native. JSI brought a **direct**, **native interface** to **JavaScript** objects and functions. As “React Native Skia” uses JSI it can expose C++ objects to Javascript & which makes React Native Skia very faster.
 
-- **“React Native Skia”** also uses **“Reanimated**”, which was created by Software Mansion. **“Reanimated”** enables developers to create smooth animations and interactions that run natively on the **UI thread**. In React Native, there are **two threads** specifically used: 1) JS thread and 2) UI (Native) thread. When animations can run on the **UI thread**, they become very speedy due to native performance. Since **“Reanimated”** can run animations on the **UI thread** and **“React Native Skia” **uses **Reanimated**, so “React Native Skia” can run animations on the UI (Native) thread which makes it super fast.
+- **“React Native Skia”** also uses **“Reanimated**”, which was created by Software Mansion. **“Reanimated”** enables developers to create smooth animations and interactions that run natively on the **UI thread**. In React Native, there are **two threads** specifically used: 1) JS thread and 2) UI (Native) thread. When animations can run on the **UI thread**, they become very speedy due to native performance. Since **“Reanimated”** can run animations on the **UI thread** and **“React Native Skia”** uses **Reanimated**, so “React Native Skia” can run animations on the UI (Native) thread which makes it super fast.
 
 ## **Install React Native Skia**
 
@@ -238,7 +238,7 @@ These hooks provide the easiest and fastest way to build animations in Skia. Bel
 
 2.  **usePathValue:** This hook offers an **easy way to animate paths**. Behind the scenes, it optimizes everything for efficiency. Imagine you’re creating a weather app, and you want to animate a raindrop falling from the sky. usePathValue ensures that raindrop glides down gracefully, without any hiccups.
 
-3.  **useClock: **This hook returns a **time value in milliseconds** since it was activated. Let’s think of it as a digital stopwatch that starts ticking when your component mounts. You can use this time value for various purposes, such as creating time-based animations or scheduling events.
+3.  **useClock:** This hook returns a **time value in milliseconds** since it was activated. Let’s think of it as a digital stopwatch that starts ticking when your component mounts. You can use this time value for various purposes, such as creating time-based animations or scheduling events.
 
 4.  **useRectBuffer:** This hook creates an **array of rectangles** to be animated. If your component needs to handle multiple rectangles (maybe for a game grid or UI layout), useRectBuffer simplifies the process. It’s like having a stack of virtual sticky notes you can move around.
 
