@@ -16,6 +16,10 @@ Let’s deep dive into each of the features & enhancements in this newsletter. B
 
 5.  **Canvaskit-js**: A small but promising library for web development, delivering rich web experiences with React Native Skia while maintaining a very small bundle size.
 
+In this Issue, we’ll explore the new Paragraph API and the fresh Atlas API of React Native Skia, and then proceed to create the following animations.
+
+![](./images/ReactNativeSkia1.0/animations.gif)
+
 Before diving into the details of each feature & enhancement, let’s understand some basics about Skia & React Native Skia.
 
 ## The Skia Library
