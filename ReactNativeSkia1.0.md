@@ -42,7 +42,9 @@ There is tremendous potential in React Native Skia. Let’s explore some common 
 
 To add React Native Skia, you are required to have this react-native@>=0.66 and react@>=18 support in your app. Now enter this below command to install React Native Skia.
 
+```bash
     yarn add @shopify/react-native-skia
+```
 
 ## Let’s dive into new features & enhancements.
 
@@ -60,76 +62,88 @@ To do this you have to add one or two custom fonts in your React Native app. For
 
 First of all, let’s import dependencies from RN Skia SDK.
 
-    // Imports
-    import {
-      Paragraph, Skia, useFonts, TextAlign, Canvas,
-    } from '@shopify/react-native-skia';
+```javascript
+// Imports
+import {
+  Paragraph,
+  Skia,
+  useFonts,
+  TextAlign,
+  Canvas,
+} from "@shopify/react-native-skia";
+```
 
 Now load your custom fonts.
 
-    // imports ...
+```javascript
+// imports ...
 
-    // Build a component to render paragraph with custom fonts
-    export default function RichText() {
-      // Load custom fonts
-      const customFontMgr = useFonts({
-        Roboto: [
-          require('../../assets/fonts/roboto/Roboto-Regular.ttf'),
-          require('../../assets/fonts/roboto/Roboto-Medium.ttf'),
-        ],
-        Bungee: [require('../../assets/fonts/bungee/BungeeSpice-Regular.ttf')],
-      });
-    }
+// Build a component to render paragraph with custom fonts
+export default function RichText() {
+  // Load custom fonts
+  const customFontMgr = useFonts({
+    Roboto: [
+      require("../../assets/fonts/roboto/Roboto-Regular.ttf"),
+      require("../../assets/fonts/roboto/Roboto-Medium.ttf"),
+    ],
+    Bungee: [require("../../assets/fonts/bungee/BungeeSpice-Regular.ttf")],
+  });
+}
+```
 
 Then build the paragraph using “Skia.ParagraphBuilder” with the above custom fonts that we loaded.
 
-    // Imports ...
+```javascript
+// Imports ...
 
-    // Build a component to render paragraph with custom fonts
-    export default function RichText() {
-      // Load custom fonts ...
+// Build a component to render paragraph with custom fonts
+export default function RichText() {
+  // Load custom fonts ...
 
-      // Build paragraph
-      return Skia.ParagraphBuilder.Make(paragraphStyle, customFontMgr)
-          .pushStyle(textStyle)
-          .addText('Welcome to RN')
-          .pushStyle({...textStyle, fontStyle: {weight: 500}})
-          .addText(' Skia V1.0. 🚀')
-          .pushStyle({...textStyleBungee})
-          .addText(' #NotJustDev')
-          .pushStyle({...textStyle})
-          .addText(' is presenting ')
-          .pushStyle({...textStyle, fontStyle: {weight: 500}})
-          .addText('Skia.')
-          .pop()
-          .build();
-    }
+  // Build paragraph
+  return Skia.ParagraphBuilder.Make(paragraphStyle, customFontMgr)
+    .pushStyle(textStyle)
+    .addText("Welcome to RN")
+    .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
+    .addText(" Skia V1.0. 🚀")
+    .pushStyle({ ...textStyleBungee })
+    .addText(" #NotJustDev")
+    .pushStyle({ ...textStyle })
+    .addText(" is presenting ")
+    .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
+    .addText("Skia.")
+    .pop()
+    .build();
+}
+```
 
 You see we added styles “paragraphStyle”, “textStyle” & “textStyleBungee”. Now let’s see how we added those styles inside **<RichText>** the component.
 
-    // Imports ...
+```javascript
+// Imports ...
 
-    // Build a component to render paragraph with custom fonts
-    export default function RichText() {
-      // Load custom fonts ...
+// Build a component to render paragraph with custom fonts
+export default function RichText() {
+  // Load custom fonts ...
 
-      // Define styles
-      const paragraphStyle = {
-        textAlign: TextAlign.Center,
-      };
-      const textStyle = {
-        color: Skia.Color('black'),
-        fontFamilies: ['Roboto'],
-        fontSize: 50,
-      };
-      const textStyleBungee = {
-        color: Skia.Color('black'),
-        fontFamilies: ['Bungee'],
-        fontSize: 45,
-      };
+  // Define styles
+  const paragraphStyle = {
+    textAlign: TextAlign.Center,
+  };
+  const textStyle = {
+    color: Skia.Color("black"),
+    fontFamilies: ["Roboto"],
+    fontSize: 50,
+  };
+  const textStyleBungee = {
+    color: Skia.Color("black"),
+    fontFamilies: ["Bungee"],
+    fontSize: 45,
+  };
 
-      // Build paragraph ...
-    }
+  // Build paragraph ...
+}
+```
 
 Now call this <RichText /> from anywhere in the app. You will see an output like below.
 
@@ -137,79 +151,82 @@ Now call this <RichText /> from anywhere in the app. You will see an output like
 
 Below is the full code together to build paragraphs using custom fonts.
 
-    // Imports
-    import {useMemo} from 'react';
-    import {
-      Paragraph,
-      Skia,
-      useFonts,
-      TextAlign,
-      Canvas,
-    } from '@shopify/react-native-skia';
-    import {
-      widthPercentageToDP as wp,
-      heightPercentageToDP as hp,
-    } from 'react-native-responsive-screen';
+```javascript
+// Imports
+import { useMemo } from "react";
+import {
+  Paragraph,
+  Skia,
+  useFonts,
+  TextAlign,
+  Canvas,
+} from "@shopify/react-native-skia";
+import {
+  widthPercentageToDP as wp,
+  heightPercentageToDP as hp,
+} from "react-native-responsive-screen";
 
-    // Build a component to render paragraph with custom fonts
-    export default function RichText() {
-      // Load custom fonts
-      const customFontMgr = useFonts({
-        Roboto: [
-          require('../../assets/fonts/roboto/Roboto-Regular.ttf'),
-          require('../../assets/fonts/roboto/Roboto-Medium.ttf'),
-        ],
-        Bungee: [require('../../assets/fonts/bungee/BungeeSpice-Regular.ttf')],
-      });
+// Build a component to render paragraph with custom fonts
+export default function RichText() {
+  // Load custom fonts
+  const customFontMgr = useFonts({
+    Roboto: [
+      require("../../assets/fonts/roboto/Roboto-Regular.ttf"),
+      require("../../assets/fonts/roboto/Roboto-Medium.ttf"),
+    ],
+    Bungee: [require("../../assets/fonts/bungee/BungeeSpice-Regular.ttf")],
+  });
 
-      // Used memo so that the paragraph is not built multiple times.
-      const paragraph = useMemo(() => {
-        if (!customFontMgr) {
-          return null;
-        }
-
-        // Define styles
-        const paragraphStyle = {
-          textAlign: TextAlign.Center,
-        };
-        const textStyle = {
-          color: Skia.Color('black'),
-          fontFamilies: ['Roboto'],
-          fontSize: 50,
-        };
-        const textStyleBungee = {
-          color: Skia.Color('black'),
-          fontFamilies: ['Bungee'],
-          fontSize: 45,
-        };
-
-        // Build paragraph
-        return Skia.ParagraphBuilder.Make(paragraphStyle, customFontMgr)
-          .pushStyle(textStyle)
-          .addText('Welcome to RN')
-          .pushStyle({...textStyle, fontStyle: {weight: 500}})
-          .addText(' Skia V1.0. 🚀')
-          .pushStyle({...textStyleBungee})
-          .addText(' #NotJustDev')
-          .pushStyle({...textStyle})
-          .addText(' is presenting ')
-          .pushStyle({...textStyle, fontStyle: {weight: 500}})
-          .addText('Skia.')
-          .pop()
-          .build();
-      }, [customFontMgr]);
-
-      // Render the paragraph
-      return (
-        <Canvas
-          style={{
-            width: wp(90),
-            height: hp(70),
-          }}>
-          <Paragraph paragraph={paragraph} x={0} y={0} width={wp(90)} />
-        </Canvas>
-      );
+  // Used memo so that the paragraph is not built multiple times.
+  const paragraph = useMemo(() => {
+    if (!customFontMgr) {
+      return null;
     }
+
+    // Define styles
+    const paragraphStyle = {
+      textAlign: TextAlign.Center,
+    };
+    const textStyle = {
+      color: Skia.Color("black"),
+      fontFamilies: ["Roboto"],
+      fontSize: 50,
+    };
+    const textStyleBungee = {
+      color: Skia.Color("black"),
+      fontFamilies: ["Bungee"],
+      fontSize: 45,
+    };
+
+    // Build paragraph
+    return Skia.ParagraphBuilder.Make(paragraphStyle, customFontMgr)
+      .pushStyle(textStyle)
+      .addText("Welcome to RN")
+      .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
+      .addText(" Skia V1.0. 🚀")
+      .pushStyle({ ...textStyleBungee })
+      .addText(" #NotJustDev")
+      .pushStyle({ ...textStyle })
+      .addText(" is presenting ")
+      .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
+      .addText("Skia.")
+      .pop()
+      .build();
+  }, [customFontMgr]);
+
+  // Render the paragraph
+  return (
+    <Canvas
+      style={{
+        width: wp(90),
+        height: hp(70),
+      }}
+    >
+      <Paragraph paragraph={paragraph} x={0} y={0} width={wp(90)} />
+    </Canvas>
+  );
+}
+```
 
 Let’s get a review of other new features & enhancements of React Native Skia V1.0.
 
@@ -245,75 +262,89 @@ Let’s create an **Atlas** component like below & understand each of its parts.
 
 First of all, import all the dependencies.
 
-    // Imports
-    import React from 'react';
-    import {
-      Skia, drawAsImage, Group, Rect, Canvas, Atlas, rect,
-    } from '@shopify/react-native-skia';
+```javascript
+// Imports
+import React from "react";
+import {
+  Skia,
+  drawAsImage,
+  Group,
+  Rect,
+  Canvas,
+  Atlas,
+  rect,
+} from "@shopify/react-native-skia";
+```
 
-Now, we’re creating an **image** (a rectangle shape) that contains **two** rectangles by using <Rect /> — one **cyan**-filled and the other **blue**-bordered.
+Now, we’re creating an **image** (a rectangle shape) that contains **two** rectangles by using \<Rect /> — one **cyan**-filled and the other **blue**-bordered.
 
-    // Imports....
+```javascript
+// Imports....
 
-    // Create an Image (Rectangle shape)
-    const size = {width: 25, height: 11.25};
-    const strokeWidth = 2;
-    const imageSize = {
-      width: size.width + strokeWidth,
-      height: size.height + strokeWidth,
-    };
-    const image = drawAsImage(
-      <Group>
-        <Rect
-          rect={rect(strokeWidth / 2, strokeWidth / 2, size.width, size.height)}
-          color="cyan"
-        />
-        <Rect
-          rect={rect(strokeWidth / 2, strokeWidth / 2, size.width, size.height)}
-          color="blue"
-          style="stroke"
-          strokeWidth={strokeWidth}
-        />
-      </Group>,
-      imageSize,
-    );
+// Create an Image (Rectangle shape)
+const size = { width: 25, height: 11.25 };
+const strokeWidth = 2;
+const imageSize = {
+  width: size.width + strokeWidth,
+  height: size.height + strokeWidth,
+};
+const image = drawAsImage(
+  <Group>
+    <Rect
+      rect={rect(strokeWidth / 2, strokeWidth / 2, size.width, size.height)}
+      color="cyan"
+    />
+    <Rect
+      rect={rect(strokeWidth / 2, strokeWidth / 2, size.width, size.height)}
+      color="blue"
+      style="stroke"
+      strokeWidth={strokeWidth}
+    />
+  </Group>,
+  imageSize
+);
+```
 
 Then below, we’re creating an array called sprites. The array will have numberOfBoxes elements (in this case, 350). Each element represents a **sprite**, which is like a cutout from our image (those rectangles or circles we want to animate). The rect(0, 0, imageSize.width, imageSize.height) function creates a sprite with a specific size (width and height).
 
-    // Imports....
+```javascript
+// Imports....
 
-    // Create an Image (Rectangle shape)....
+// Create an Image (Rectangle shape)....
 
-    // Create the <ImageWithAtlas /> component to render Atlas Images
-    export default ImageWithAtlas = () => {
-      // Create 350 sprites (350 Rectangles)
-      const numberOfBoxes = 350;
-      const sprites = new Array(numberOfBoxes)
-        .fill(0)
-        .map(() => rect(0, 0, imageSize.width, imageSize.height));
-    }
+// Create the <ImageWithAtlas /> component to render Atlas Images
+export default ImageWithAtlas = () => {
+  // Create 350 sprites (350 Rectangles)
+  const numberOfBoxes = 350;
+  const sprites = new Array(numberOfBoxes)
+    .fill(0)
+    .map(() => rect(0, 0, imageSize.width, imageSize.height));
+};
+```
 
 After that, now we’re creating another array called transforms. Each element in this array represents a **transformation** for a corresponding sprite.
 
-    // Imports....
+```javascript
+// Imports....
 
-    // Create an Image (Rectangle shape)....
+// Create an Image (Rectangle shape)....
 
-    // Create the <ImageWithAtlas /> component to render Atlas Images
-    export default ImageWithAtlas = () => {
-      // Create 350 sprites (350 Rectangles)....
+// Create the <ImageWithAtlas /> component to render Atlas Images
+export default ImageWithAtlas = () => {
+  // Create 350 sprites (350 Rectangles)....
 
-      // Create transformation rules for each sprites
-      const pos = {x: 190, y: 258};
-      const width = 400;
+  // Create transformation rules for each sprites
+  const pos = { x: 190, y: 258 };
+  const width = 400;
 
-      const transforms = new Array(numberOfBoxes).fill(0).map((_, i) => {
-        const tx = 5 + ((i * size.width) % width);
-        const ty = 25 + Math.floor(i / (width / size.width)) * size.width;
-        const r = Math.atan2(pos.y - ty, pos.x - tx);
-        return Skia.RSXform(Math.cos(r), Math.sin(r), tx, ty);
-      });
-    }
+  const transforms = new Array(numberOfBoxes).fill(0).map((_, i) => {
+    const tx = 5 + ((i * size.width) % width);
+    const ty = 25 + Math.floor(i / (width / size.width)) * size.width;
+    const r = Math.atan2(pos.y - ty, pos.x - tx);
+    return Skia.RSXform(Math.cos(r), Math.sin(r), tx, ty);
+  });
+};
+```
 
 In the above transformation code, we used some calculations. Let’s try to understand them a bit.
 
@@ -325,50 +356,59 @@ In the above transformation code, we used some calculations. Let’s try to unde
 
 Now bringing It all together through <Atlas /> API.
 
-    // Imports....
+```javascript
+// Imports....
 
-    // Create an Image (Rectangle shape)....
+// Create an Image (Rectangle shape)....
 
-    // Create the <ImageWithAtlas /> component to render Atlas Images
-    export default ImageWithAtlas = () => {
-      // Create 350 sprites (350 Rectangles)....
+// Create the <ImageWithAtlas /> component to render Atlas Images
+export default ImageWithAtlas = () => {
+  // Create 350 sprites (350 Rectangles)....
 
-      // Create transformation rules for each sprites....
+  // Create transformation rules for each sprites....
 
-      // Finally create & return the Atlas component to render 350 sprites
-      return (
-        <Canvas
-          style={{
-            width: wp(100),
-            height: hp(60),
-          }}>
-          <Atlas image={image} sprites={sprites} transforms={transforms} />
-        </Canvas>
-      );
-    }
+  // Finally create & return the Atlas component to render 350 sprites
+  return (
+    <Canvas
+      style={{
+        width: wp(100),
+        height: hp(60),
+      }}
+    >
+      <Atlas image={image} sprites={sprites} transforms={transforms} />
+    </Canvas>
+  );
+};
+```
 
 Now you can call the <ImageWithAtlas /> component from anywhere in your app & you will see an output like below.
 
 ![](https://cdn-images-1.medium.com/max/NaN/1*WYZ-vKi1PyltQWUeWQIqcw.png)
 
-### **Efficient Lottie Animations **with **RN Skottie and RN Skia**
+### Efficient Lottie Animations with RN Skottie and RN Skia
 
-For scripted (**Guided Movements**) animations, **React Native Skia** serves as the foundation for **React Native** **Skottie** by providing the necessary infrastructure for rendering graphics. **React Native** **Skottie **has been created by **Margelo**.
+For scripted (**Guided Movements**) animations, **React Native Skia** serves as the foundation for **React Native** **Skottie** by providing the necessary infrastructure for rendering graphics. **React Native** **Skottie** has been created by **Margelo**.
 
 When you use **react-native-skottie** in your **React Native** app, it internally relies on **@shopify/react-native-skia**. When you load a **Lottie animation** (either from a JSON file or a DotLottie file), **@shopify/react-native-skia** processes it and hands it over to **Skottie**. **Skottie** then takes care of rendering the animation efficiently using **Skia’s GPU acceleration**. The result is incredibly smooth and performant animations within your React Native app!
 
 It is very simple to use Skottie in your React Native App.
 
-    // Imports
-    import { Skottie } from 'react-native-skottie';
-    import LottieAnimationFile from './animation.json';
+```javascript
+// Imports
+import { Skottie } from "react-native-skottie";
+import LottieAnimationFile from "./animation.json";
 
-    // Return the component to render with Skottie animation
-    export default function App() {
-      return (
-        <Skottie style={styles.flex1} source={LottieAnimationFile} autoPlay={true} />
-      );
-    }
+// Return the component to render with Skottie animation
+export default function App() {
+  return (
+    <Skottie
+      style={styles.flex1}
+      source={LottieAnimationFile}
+      autoPlay={true}
+    />
+  );
+}
+```
 
 ### Introducing Canvaskit-js: Enhancing Web Experiences with React Native Skia
 
