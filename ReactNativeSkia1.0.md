@@ -1,8 +1,8 @@
 # Empowering Creativity: React Native Skia 1.0 Adds 5 Exciting Features for Animators
 
-Hey notJust Developers,
+Hey **notJust** Developers,
 
-Exciting news in the world of React Native Animation: The Skia team recently published React Native Skia version 1.0, a significant milestone achieved just 3 weeks ago. In this first-ever stable release, they’ve unveiled 5 super exciting features and enhancements.
+Exciting news in the world of **React Native Animation**: The Skia team recently published React Native Skia version **1.0**, a significant milestone achieved just 3 weeks ago. In this first-ever stable release, they’ve unveiled 5 super exciting features and enhancements.
 
 Let’s deep dive into each of the features & enhancements in this newsletter. Below are all the new features and enhancements in a concise manner.
 
@@ -28,11 +28,11 @@ Skia is an open-source 2D graphics library that provides common APIs that work a
 
 ## Skia is now in React Native
 
-React Native Skia brings the Skia Graphics Library to React Native. It has been built by the **Shopify** team on top of the Skia Library.
+React Native Skia brings the **Skia Graphics Library** to React Native. It has been built by the **Shopify** team on top of the Skia Library.
 
 One of the main differences between Flutter & React Native is that, Flutter has control over pixels but the big downside is Flutter doesn’t have control over Native Views. On the other hand, React Native has control over Native Views but it loses control over Pixel.
 
-What “React Native Skia” did here is that it gives React Native control over Pixels too now. Besides this, by “React Native Skia” you can apply effects on **Native Views** and capture the pixels of Native views too.
+What **“React Native Skia”** did here is that it gives React Native control over Pixels too now. Besides this, by “React Native Skia” you can apply effects on **Native Views** and capture the pixels of Native views too.
 
 ## Unveiling the Potency of “React Native Skia”
 
@@ -56,7 +56,7 @@ To add React Native Skia, you are required to have this react-native@>=0.66 and 
 
 From day one, React Native Skia was able to display text, but it was not possible to automatically break lines, apply layouts, or mix and match system fonts with custom app fonts. And this is what the Paragraph API now does.
 
-The Paragraph API in React Native Skia allows you to create sophisticated text layouts with ease. Whether you’re building a chat app, a document viewer, or any other text-heavy interface, this feature will come in handy.
+The **Paragraph API** in React Native Skia allows you to create sophisticated text layouts with ease. Whether you’re building a chat app, a document viewer, or any other text-heavy interface, this feature will come in handy.
 
 Let’s start by creating the below paragraph using custom fonts.
 
@@ -121,7 +121,7 @@ export default function RichText() {
 }
 ```
 
-You see we added styles “paragraphStyle”, “textStyle” & “textStyleBungee”. Now let’s see how we added those styles inside **<RichText>** the component.
+You see we added styles **“paragraphStyle”**, **“textStyle”** & **“textStyleBungee”**. Now let’s see how we added those styles inside **\<RichText>** the component.
 
 ```javascript
 // Imports ...
@@ -248,7 +248,7 @@ These hooks provide the easiest and fastest way to build animations in Skia. Bel
 
 ### **The Atlas API**
 
-The Atlas component in React Native Skia is like a magical backpack for textures or images. It helps you efficiently render multiple instances of the same texture (think: sprites) with varying transformations.
+The **Atlas component** in React Native Skia is like a magical backpack for textures or images. It helps you efficiently render multiple instances of the same texture (think: sprites) with varying transformations.
 
 Imagine you’re drawing a bunch of similar objects, like game characters or UI elements, and you want them to move, rotate, or scale smoothly. The Atlas API has your back!
 
@@ -309,7 +309,7 @@ const image = drawAsImage(
 );
 ```
 
-Then below, we’re creating an array called sprites. The array will have numberOfBoxes elements (in this case, 350). Each element represents a **sprite**, which is like a cutout from our image (those rectangles or circles we want to animate). The rect(0, 0, imageSize.width, imageSize.height) function creates a sprite with a specific size (width and height).
+Then below, we’re creating an array called sprites. The array will have numberOfBoxes elements (in this case, 350). Each element represents a **sprite**, which is like a cutout from our image (those rectangles or circles we want to animate). The **rect(0, 0, imageSize.width, imageSize.height)** function creates a sprite with a specific size (width and height).
 
 ```javascript
 // Imports....
@@ -352,11 +352,11 @@ export default ImageWithAtlas = () => {
 
 In the above transformation code, we used some calculations. Let’s try to understand them a bit.
 
-- The pos is the center point, and sprites (rectangles) will circulate this center point.
+- The **pos** is the center point, and sprites (rectangles) will **circulate** this center point.
 
-- The tx and ty values determine the position (translation) of each sprite (each rectangle in this case).
+- The **tx** and **ty** values determine the **position** (translation) of each sprite (each rectangle in this case).
 
-- The r value calculates the rotation angle based on the sprite’s position relative to the center point (pos).
+- The **r** value calculates the rotation **angle** based on the sprite’s position relative to the center point (pos).
 
 Now bringing It all together through <Atlas /> API.
 
@@ -416,7 +416,7 @@ export default function App() {
 
 ### Introducing Canvaskit-js: Enhancing Web Experiences with React Native Skia
 
-The React Native Skia team is excited to announce the release of Canvaskit-js, an open-source library designed for web development. This lightweight yet powerful library enables you to create rich web experiences using React Native Skia, all while keeping your bundle size impressively small — just 20 kilobytes!
+The React Native Skia team is excited to announce the release of **Canvaskit-js**, an open-source library designed for web development. This lightweight yet powerful library enables you to create **rich web experiences** using **React Native Skia**, all while keeping your bundle size impressively small — just **20 kilobytes**!
 
 # That’s it 🙌
 
