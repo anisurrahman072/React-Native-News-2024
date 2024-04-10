@@ -16,7 +16,7 @@ Let’s deep dive into each of the features & enhancements in this newsletter. B
 
 5.  **Canvaskit-js**: A small but promising library for web development, delivering rich web experiences with React Native Skia while maintaining a very small bundle size.
 
-Before diving into the details of each feature & enhancement, let’s understand some basics about Skia & React native Skia.
+Before diving into the details of each feature & enhancement, let’s understand some basics about Skia & React Native Skia.
 
 ## The Skia Library
 
@@ -28,7 +28,7 @@ React Native Skia brings the Skia Graphics Library to React Native. It has been 
 
 One of the main differences between Flutter & React Native is that, Flutter has control over pixels but the big downside is Flutter doesn’t have control over Native Views. On the other hand, React Native has control over Native Views but it loses control over Pixel.
 
-What “React Native Skia” did here is that it gives React native control over Pixels too now. Besides this, by “React Native Skia” you can apply effects on **Native Views** and capture the pixels of Native views too.
+What “React Native Skia” did here is that it gives React Native control over Pixels too now. Besides this, by “React Native Skia” you can apply effects on **Native Views** and capture the pixels of Native views too.
 
 ## Unveiling the Potency of “React Native Skia”
 
