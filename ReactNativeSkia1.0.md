@@ -385,7 +385,7 @@ export default ImageWithAtlas = () => {
 };
 ```
 
-Now you can call the <ImageWithAtlas /> component from anywhere in your app & you will see an output like below.
+Now you can call the \<ImageWithAtlas /> component from anywhere in your app & you will see an output like below.
 
 ![](./images/ReactNativeSkia1.0/atlas.png)
 
