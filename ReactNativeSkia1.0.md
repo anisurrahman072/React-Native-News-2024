@@ -413,3 +413,5 @@ export default function App() {
 ### Introducing Canvaskit-js: Enhancing Web Experiences with React Native Skia
 
 The React Native Skia team is excited to announce the release of Canvaskit-js, an open-source library designed for web development. This lightweight yet powerful library enables you to create rich web experiences using React Native Skia, all while keeping your bundle size impressively small — just 20 kilobytes!
+
+### The News Letter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev)
