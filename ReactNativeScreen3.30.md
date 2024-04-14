@@ -34,7 +34,7 @@ From now on, in React Native apps, developers can apply a screen transition effe
 
 3.  react-native-gesture-handler
 
-All the teams have published their dependencies for this feature in their latest release. Just “react-native-reanimated ” team's latest release is in pre-release V3.9.0-rc.0.
+All the teams have published their dependencies for this feature in their latest stable version. However, the “react-native-reanimated” dependencies for this feature are not yet available in the latest stable version. Fortunately, they have made a pre-release of [V3.9](https://github.com/software-mansion/react-native-reanimated/releases/tag/3.9.0-rc.0), which includes all the necessary dependencies for this feature. We will utilize it.
 
 In the next section, we will explore the necessary additions or upgrades to our app, enabling the implementation of this feature.
 
