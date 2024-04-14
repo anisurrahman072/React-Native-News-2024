@@ -68,9 +68,9 @@ To enable go-back screen transitions based on gestures, we need to modify our na
 
 1.  We have to import **“createNativeStackNavigator”** from **“react-native-screens/native-stack”** instead of **“@react-navigation/native-stack”**. They both provide the same functionalities on navigation but “react-native-screens/native-stack” provides an extra functionality for handling go-back screen transition.
 
-2.  We need to wrap the <**NavigationContainer />** component by using **<GestureDetectorProvider />** from **“react-native-screens/gesture-handler”**. The GestureDetectorProvider enables you to recognize and handle various gestures (like swipes, pinches, rotations, etc.) in your React Native app.
+2.  We need to wrap the <**NavigationContainer />** component by using **\<GestureDetectorProvider />** from **“react-native-screens/gesture-handler”**. The GestureDetectorProvider enables you to recognize and handle various gestures (like swipes, pinches, rotations, etc.) in your React Native app.
 
-3.  Finally, wrap your whole app by using **<GestureHandlerRootView />** from **“react-native-gesture-handler”** as it allows your app to catch all touch events.
+3.  Finally, wrap your whole app by using **\<GestureHandlerRootView />** from **“react-native-gesture-handler”** as it allows your app to catch all touch events.
 
 The imports should look like below in “App.js”:
 
@@ -109,7 +109,7 @@ function App() {
 }
 ```
 
-Let’s recap what we did in the above navigation file. The top component is now **<GestureHandlerRootView />**, which detects all touch events in your app. The next component is **<GestureDetectorProvider />**, responsible for identifying whether the touch corresponds to a gesture (such as swipes, pinches, rotations, etc.). After that, we have our **<NavigationContainer />** component.
+Let’s recap what we did in the above navigation file. The top component is now **\<GestureHandlerRootView />**, which detects all touch events in your app. The next component is **\<GestureDetectorProvider />**, responsible for identifying whether the touch corresponds to a gesture (such as swipes, pinches, rotations, etc.). After that, we have our **\<NavigationContainer />** component.
 
 That’s it! You’ve enabled gesture action handling power in your React Native app. Now it’s time to apply some “go back” transitions to each screen, as shown below:
 
@@ -193,4 +193,8 @@ Design your screens (components) ScreenA and ScreenB. Reload your app, navigate 
 
 In the latest **React Native screen V3.30**, a notable feature has been introduced: screen transition animations for **“go back”** gestures. This enhancement allows smoother and more visually appealing transitions when navigating between screens.
 
-The newsletter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).
+## Did you learn something new today?
+
+If you found this email valuable, forward it to one friend or coworker that can benefit from it as well. That would be much appreciated 🙏
+
+**The newsletter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).**
