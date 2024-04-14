@@ -60,7 +60,7 @@ To enable go-back screen transition with gesture let’s install the following p
   npm install react-native-reanimated@3.9.0-rc.0
 ```
 
-You can check the reanimated **V3,9** pre-release note from here [(Change Log of reanimated 3.9.0-rc.0)](https://github.com/software-mansion/react-native-reanimated/releases/tag/3.9.0-rc.0).
+You can check the reanimated **V3.9** pre-release note from here [(Change Log of reanimated 3.9.0-rc.0)](https://github.com/software-mansion/react-native-reanimated/releases/tag/3.9.0-rc.0).
 
 ## Code Example
 
