@@ -64,7 +64,7 @@ You can check the reanimated **V3,9** pre-release note from here [(Change Log of
 
 ## Code Example
 
-To enable go-back screen transitions based on gestures, we need to modify our navigation file (the file that declares the names of each screen to navigate). We will use **“App.js”** as our navigation file in this example.
+To enable go-back screen transitions based on gestures, we need to modify our **navigation file** (the file that declares the names of each screen to navigate). We will use **“App.js”** as our navigation file in this example.
 
 1.  We have to import **“createNativeStackNavigator”** from **“react-native-screens/native-stack”** instead of **“@react-navigation/native-stack”**. They both provide the same functionalities on navigation but “react-native-screens/native-stack” provides an extra functionality for handling go-back screen transition.
 
