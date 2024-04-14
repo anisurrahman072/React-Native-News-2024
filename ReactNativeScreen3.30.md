@@ -191,7 +191,7 @@ Design your screens (components) ScreenA and ScreenB. Reload your app, navigate 
 
 ## That’s it 🙌
 
-In the latest **React Native screen V3.30**, a notable feature has been introduced: screen transition animations for **“go back”** gestures. This enhancement allows smoother and more visually appealing transitions when navigating between screens.
+The **V3.30** release in **React Native Screen** introduces enhanced transition animations for smoother and more visually appealing navigation when returning to the previous screen.
 
 ## Did you learn something new today?
 
