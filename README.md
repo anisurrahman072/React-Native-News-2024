@@ -7,7 +7,7 @@
 - Each topic I choose are latest releases of different RN SDKs
 - On an average I give 30+ hours for each R&D & Newsletter writing
 
-### 🙏 If you find this BOOK helpful, please give a STAR ⭐️
+### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
 # Table of Contents (Published 2)
 
