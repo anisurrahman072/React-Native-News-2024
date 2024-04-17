@@ -5,7 +5,7 @@
 - Hi, React Native devs, I'm doing deep R&D on RN SDKs latest releases.
 - Then I'm writing Newsletter for #NotJustDev about my R&D
 - Each topic I choose are latest releases of different RN SDKs
-- On an average I give 30+ hours for each R&D & Newsletter writing
+- I give 30+ hours for each R&D & Newsletter writing
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
