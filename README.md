@@ -2,10 +2,9 @@
 
 ![](./images/home.png)
 
-- Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases.
-- Then I'm writing Newsletter for **#NotJustDev** about my R&D
+- Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases ([🐥 CONNECT me in X](https://twitter.com/anis_RNCore))
+- Writing Newsletter on my R&D for **#NotJustDev** community to 40K+ dev
 - Each topic I choose are latest releases of different RN SDKs
-- I give 30+ hours for each R&D & Newsletter writing
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
