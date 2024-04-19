@@ -193,8 +193,4 @@ Design your screens (components) **ScreenA** and **ScreenB**. Reload your app, n
 
 The **V3.30** release in **React Native Screen** introduces enhanced transition animations for smoother and more visually appealing navigation when returning to the previous screen.
 
-## Did you learn something new today?
-
-If you found this email valuable, forward it to one friend or coworker that can benefit from it as well. That would be much appreciated 🙏
-
-**The newsletter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).**
+### 🙏 If you find my R&D helpful, please give a STAR ⭐️

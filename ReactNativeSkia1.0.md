@@ -422,6 +422,4 @@ The React Native Skia team is excited to announce the release of **Canvaskit-js*
 
 In a nutshell, React Native Skia V1.0 brings five fresh features to the table. Get ready for an exciting ride!
 
-Stay tuned with the **#NotJustDev** Newsletter for more content like this.
-
-### The newsletter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).
+### 🙏 If you find my R&D helpful, please give a STAR ⭐️
