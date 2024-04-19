@@ -2,7 +2,7 @@
 
 ![](./images/home.png)
 
-- Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases ([🐥 CONNECT me in X](https://twitter.com/anis_RNCore))
+- Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases (**[🐥 CONNECT me in X](https://twitter.com/anis_RNCore)**)
 - Writing Newsletter on my R&D for **#NotJustDev** community to 40K+ dev
 - Each topic I choose are latest releases of different RN SDKs
 
