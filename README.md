@@ -2,8 +2,8 @@
 
 ![](./images/home.png)
 
-- Hi, React Native devs, I'm doing deep R&D on RN SDKs latest releases.
-- Then I'm writing Newsletter for #NotJustDev about my R&D
+- Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases.
+- Then I'm writing Newsletter for **#NotJustDev** about my R&D
 - Each topic I choose are latest releases of different RN SDKs
 - I give 30+ hours for each R&D & Newsletter writing
 
