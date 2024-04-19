@@ -1,6 +1,6 @@
 # React Native SDK Deep R&Ds
 
-![](./images/ReactNativeScreen3.30/output.gif)
+![](./images/home.png)
 
 - Hi, React Native devs, I'm doing deep R&D on RN SDKs latest releases.
 - Then I'm writing Newsletter for #NotJustDev about my R&D
