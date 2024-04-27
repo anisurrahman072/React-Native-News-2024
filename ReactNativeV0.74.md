@@ -61,7 +61,11 @@ We then applied this style in the **\<Parent/>** component.
     }}
 ```
 
-Did you notice, that we added a **marginLeft** of **100** pixels for **\<Parent/>**? Yeah, but see the output in React Native V0.73 (the left one) from the above image. It shows a 100 pixels margin on the **right (not on the left)** !! Okay, now let’s see the output of React Native V0.74 (the right one). Great, in V0.74 we see a perfect 100-pixel margin at **left,** and also two **\<Child/>** components got **reversed** 🚀
+Did you notice, that we added a **marginLeft** of **100** pixels for **\<Parent/>**?
+
+Yeah, but see the output in React Native **V0.73** (the left one) from the above image. It shows a 100 pixels margin on the **right (not on the left)**!!
+
+Okay, now let’s see the output of React Native **V0.74** (the right one). Great, in V0.74 we see a perfect 100-pixel margin at **left,** and also two **\<Child/>** components got **reversed** 🚀
 
 So, in Yoga-2, if you apply a **‘row-reverse’** flex-direction with **“margin”** or **“padding”** or **“border”** in a component then the edges of that component also get flipped. But in Yoga-3 it has been solved perfectly 💯
 
