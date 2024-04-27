@@ -27,3 +27,16 @@
     - Install RN Screen with React-Navigation
     - SDK: react-native-screens/native-stack
     - SDK: react-native-reanimated V3.9 (pre-release)
+
+### [✅ R&D on React Native Release V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
+
+    - Yoga: The layout engine
+    - Yoga 3.0 — what’s new?
+    - New Architecture: Bridgeless by Default
+    - Old Architecture recap
+    - New Architecture — performance booster
+    - Remove OLD architecture dependencies
+    - New Architecture: Batched onLayout Updates
+    - The “onLayout” props
+    - How “onLayout" batch update works?
+    - Yarn 3 for New Projects
