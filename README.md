@@ -8,7 +8,7 @@
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
-# Table of Contents (Published 2)
+# Table of Contents (More coming soon - 2 Chapters/ Month)
 
 ### [✅ R&D on React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
 
