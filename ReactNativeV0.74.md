@@ -1,8 +1,8 @@
-## React Native V0.74 — Stable is out 🚀
+# React Native V0.74 — Stable is out 🚀
 
 Hi **notJust** Developers,
 
-Exciting news in the world of React Native is that **V0.74** was released just a couple of days ago with over 1600 commits. The highlights are:
+Exciting news in the world of React Native is that **V0.74** was released just a couple of days ago with over **1600 commits**. The highlights are:
 
 - **Yoga 3.0**
 
@@ -14,7 +14,7 @@ Exciting news in the world of React Native is that **V0.74** was released just a
 
 Let’s dive into each of the new highlights.
 
-![](https://cdn-images-1.medium.com/max/NaN/1*pJQga189wcrMpV8J0chYxg.png)
+![](https://cdn-images-1.medium.com/max/5760/1*pJQga189wcrMpV8J0chYxg.png)
 
 ## Yoga 3.0
 
@@ -34,20 +34,21 @@ Yoga calculates these four for each UI element.
 
 4.  **Spacing**
 
-With Yoga, you can create **responsive layouts** that adapt to different screen sizes and orientations. It also implements a widely used concept called **CSS Flexbox **in React Native. So you already feel that yoga is the heart (♥︎) of React Native flexible UI.
+With **Yoga**, you can create **responsive layouts** that adapt to different screen sizes and orientations. It also implements a widely used concept called **CSS Flexbox** in React Native. So you already feel that yoga is the heart (♥︎) of React Native flexible UI.
 
 ### Yoga 3.0 — what’s new?
 
-In all previous versions of React Native, there were some incorrect layout behaviors. **Yoga 3** solved all of them. One of the most common issues was that the **‘row-reverse’ **style was not functioning properly.
+In all previous versions of React Native, there were some incorrect layout behaviors. **Yoga 3** solved all of them. One of the most common issues was that the **‘row-reverse’** style was not functioning properly.
 
 Let’s look at the image below where the **left** one is from **V0.73** and the **right** one is from **V0.74**.
 
 ![](https://cdn-images-1.medium.com/max/5760/1*pJQga189wcrMpV8J0chYxg.png)
 
-In the above image, we have a **<Container/>**, then inside it a **<Parent/>** component, then inside **two <Child/>** components.
+In the above image, we have a **\<Container/>**, then inside it a **\<Parent/>** component, then inside **two \<Child/>** components.
 
-We then applied this style in the **<Parent/>** component.
+We then applied this style in the **\<Parent/>** component.
 
+```javascript
     // Style for <Parent/> component
     style={{
           flexDirection: 'row-reverse',
@@ -58,16 +59,17 @@ We then applied this style in the **<Parent/>** component.
           marginVertical: 20,
           alignItems: 'center'
     }}
+```
 
-Did you notice, that we added a **marginLeft** of **100** pixels for **<Parent/>**? Yeah, but see the output in React Native V0.73 (the left one) from the above image. It shows a 100 pixels margin on the **right (not on the left)** !! Okay, now let’s see the output of React Native V0.74 (the right one). Great, in V0.74 we see a perfect 100-pixel margin at **left,** and also two **<Child/>** components got **reversed** 🚀
+Did you notice, that we added a **marginLeft** of **100** pixels for **\<Parent/>**? Yeah, but see the output in React Native V0.73 (the left one) from the above image. It shows a 100 pixels margin on the **right (not on the left)** !! Okay, now let’s see the output of React Native V0.74 (the right one). Great, in V0.74 we see a perfect 100-pixel margin at **left,** and also two **\<Child/>** components got **reversed** 🚀
 
 So, in Yoga-2, if you apply a **‘row-reverse’** flex-direction with **“margin”** or **“padding”** or **“border”** in a component then the edges of that component also get flipped. But in Yoga-3 it has been solved perfectly 💯
 
-Yoga-3 has brought some other important styling components that were missing in Yoga-2.
+**Yoga-3** has brought some other important styling components that were missing in Yoga-2.
 
-- 'space-evenly' property for alignContent style
+- **'space-evenly'** property for alignContent style
 
-- 'static' property for position style
+- **'static'** property for position style
 
 ## **New Architecture: Bridgeless by Default**
 
@@ -111,49 +113,56 @@ The onLayout prop in React Native is used to handle **layout (position)** change
 
 You can use this prop like below to **perform actions** based on the updated layout information.
 
-    function App(){
-      return (
-          <View
-             onLayout={() => {
-              console.log('Component has been invoked 🚀')
-             }}
-          />
-       )
-    }
+```javascript
+function App() {
+  return (
+    <View
+      onLayout={() => {
+        console.log("Component has been invoked 🚀");
+      }}
+    />
+  );
+}
+```
 
 ### How “onLayout" batch update works?
 
-Assume the component **<App/>** is as shown below, where each **View** triggers an **onLayout** callback function when mounted.
+Assume the component **\<App/>** is as shown below, where each **View** triggers an **onLayout** callback function when mounted.
 
-    function App() {
-     const [state1, setState1] = useState(false)
-     const [state2, setState2] = useState(false)
-     const [state3, setState3] = useState(false)
+```javascript
+function App() {
+  const [state1, setState1] = useState(false);
+  const [state2, setState2] = useState(false);
+  const [state3, setState3] = useState(false);
 
-     console.log('✅ COMPONENT RE-RENDERED .....')
+  console.log("✅ COMPONENT RE-RENDERED .....");
 
-     return (
-      <View>
-       <View
+  return (
+    <View>
+      <View
         onLayout={() => {
-         console.log('FIRST View invoked')
-         setState1(true) // Update state1 when the View mounts
-        }}></View>
+          console.log("FIRST View invoked");
+          setState1(true); // Update state1 when the View mounts
+        }}
+      ></View>
 
-       <View
+      <View
         onLayout={() => {
-         console.log('SECOND View invoked')
-         setState2(true) // Update state2 when the View mounts
-        }}></View>
+          console.log("SECOND View invoked");
+          setState2(true); // Update state2 when the View mounts
+        }}
+      ></View>
 
-       <View
+      <View
         onLayout={() => {
-         console.log('THIRD View invoked')
-         setState3(true) // Update state3 when the View mounts
-        }}></View>
-      </View>
-     )
-    }
+          console.log("THIRD View invoked");
+          setState3(true); // Update state3 when the View mounts
+        }}
+      ></View>
+    </View>
+  );
+}
+```
 
 Now, in React Native **V0.73**, you will see an output like below 👇
 
@@ -167,7 +176,7 @@ Now, let’s see the output in React Native **V0.74** with enabling **New Archit
 
 Amazing performance 🔥. The component got re-rendered only once for all 3 **“onLayout”** callback execution.
 
-A good summary in the below image on **“onLayout” **batch update **👇**
+A good summary in the below image on **“onLayout”** batch update 👇
 
 ![](https://cdn-images-1.medium.com/max/5760/1*fMOuEt9ovEuLiZtKcbwvFg.png)
 
