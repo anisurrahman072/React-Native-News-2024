@@ -1,6 +1,6 @@
 # Empowering Creativity: React Native Skia 1.0 Adds 5 Exciting Features for Animators
 
-Hey **notJust** Developers,
+Hey **React Native** Developers,
 
 Exciting news in the world of **React Native Animation**: The Skia team recently published React Native Skia version **1.0**, a significant milestone achieved just 3 weeks ago. In this first-ever stable release, they’ve unveiled 5 super exciting features and enhancements.
 
@@ -111,7 +111,7 @@ export default function RichText() {
     .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
     .addText(" Skia V1.0. 🚀")
     .pushStyle({ ...textStyleBungee })
-    .addText(" #NotJustDev")
+    .addText(" #RNDev")
     .pushStyle({ ...textStyle })
     .addText(" is presenting ")
     .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
@@ -209,7 +209,7 @@ export default function RichText() {
       .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })
       .addText(" Skia V1.0. 🚀")
       .pushStyle({ ...textStyleBungee })
-      .addText(" #NotJustDev")
+      .addText(" #RNDev")
       .pushStyle({ ...textStyle })
       .addText(" is presenting ")
       .pushStyle({ ...textStyle, fontStyle: { weight: 500 } })

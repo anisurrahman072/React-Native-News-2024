@@ -1,6 +1,6 @@
 # React Native Screen V3.30: What’s New!
 
-Hey **notJust** Developers,
+Hey **React Native** Developers,
 
 We’re thrilled to share some exciting news from **Software Mansion**! 🚀 In the ever-evolving world of React Native, they’ve made remarkable strides. Last month, they unveiled **react-native-screen** version 3.30, and it comes with a groundbreaking feature: **“Go-Back Screen Transition Based on Gesture.”**
 
