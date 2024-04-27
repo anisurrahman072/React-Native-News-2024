@@ -81,7 +81,7 @@ So, in Yoga-2, if you apply a **‘row-reverse’** flex-direction with **“mar
 
 React Native previously used a **bridge** to communicate between JavaScript and native modules. The Modules are written in C++, Objective C, Java, or kotlin to access native features like cameras, sensors, etc. Unfortunately, the **Bridge** has some limitations.
 
-One main limitation is that each time one layer communicates with another, it involves serializing (converting JS Object to JSON String) and deserializing (converting JSON String back to JS Object) data. Since the conversion takes time, this process adds a performance issue to the communication flow.
+One main limitation is that each time one layer communicates with another, it involves **serializing** (converting JS Object to JSON String) and **deserializing** (converting JSON String back to JS Object) data. Since the conversion takes time, this process adds a performance issue to the communication flow.
 
 ### New Architecture — performance booster
 
