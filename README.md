@@ -41,4 +41,4 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### 🔥 More coming soon on 🚀
+### 🔥 More coming soon 🚀
