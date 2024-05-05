@@ -1,4 +1,4 @@
-# React Native SDK Deep R&Ds
+# React Native Advanced SDK R&Ds
 
 ![](./images/home.png)
 
