@@ -1,6 +1,6 @@
 # React Native V0.74 — Stable is out 🚀
 
-Hi **notJust** Developers,
+Hi **React Native** Developers,
 
 Exciting news in the world of React Native is that **V0.74** was released just a couple of days ago with over **1600 commits**. The highlights are:
 
@@ -194,8 +194,4 @@ Yarn 3 speeds up the process of installing and updating dependencies and optimiz
 
 React Native version **0.74** introduced significant improvements in component layout, architecture, batched onLayout updates, and integration with Yarn 3.
 
-## Did you learn something new today?
-
-If you found this email valuable, forward it to one friend or coworker that can benefit from it as well. That would be much appreciated 🙏
-
-**The newsletter was written by [Anis](https://twitter.com/anis_RNCore) and edited by [Vadim Savin](https://twitter.com/VadimNotJustDev).**
+### 🙏 If you find my R&D helpful, please give a STAR ⭐️
