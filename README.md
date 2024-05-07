@@ -23,7 +23,7 @@
 ### [✅ R&D on React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
 
     - React Native Screen Background Research
-    - Feature R&D: Go-back screen transition
+    - Feature R&D: Custom screen transition
     - Install RN Screen with React-Navigation
     - SDK: react-native-screens/native-stack
     - SDK: react-native-reanimated V3.9 (pre-release)
