@@ -1,20 +1,20 @@
-# React Native Screen V3.30: What’s New!
+# React Native Screens V3.30: What’s New!
 
 Hey **React Native** Developers,
 
-We’re thrilled to share some exciting news from **Software Mansion**! 🚀 In the ever-evolving world of React Native, they’ve made remarkable strides. Last month, they unveiled **react-native-screen** version 3.30, and it comes with a groundbreaking feature: **“Go-Back Screen Transition Based on Gesture.”**
+We’re thrilled to share some exciting news from **Software Mansion**! 🚀 In the ever-evolving world of React Native, they’ve made remarkable strides. Last month, they unveiled **react-native-screen** version 3.30, and it comes with a groundbreaking feature: **“Custom Screen Transitions Based on Gesture.”**
 
 In today’s newsletter, we’ll dive into the code and explore how we can harness this powerful feature in our React Native apps.
 
 ![](./images/ReactNativeScreen3.30/output.gif)
 
-Before we delve further, let’s explore the essential groundwork of React Native Screen.
+Before we delve further, let’s explore the essential groundwork of React Native Screens.
 
-## The React-Native-Screen library
+## The React-Native-Screens library
 
-When building React Native applications, **effective navigation** is essential. **React Native Screen**, developed by Software Mansion, provides **native navigation primitives** specifically tailored for React Native apps. These primitives correspond to **native components** offered by your phone’s operating system. By leveraging these components, **React-native-screens** enhances performance and ensures that your app operates seamlessly.
+When building React Native applications, **effective navigation** is essential. **React Native Screens**, developed by Software Mansion, provides **native navigation primitives** specifically tailored for React Native apps. These primitives correspond to **native components** offered by your phone’s operating system. By leveraging these components, **React-native-screens** enhances performance and ensures that your app operates seamlessly.
 
-However, it’s important to note that **React Native Screen** isn’t intended to be used as a standalone library for handling navigation independently. Instead, it serves as a dependency for **full-featured** navigation libraries.
+However, it’s important to note that **React Native Screens** isn’t intended to be used as a standalone library for handling navigation independently. Instead, it serves as a dependency for **full-featured** navigation libraries.
 
 Some of the most popular full-featured navigation libraries are:
 
@@ -24,7 +24,7 @@ Some of the most popular full-featured navigation libraries are:
 
 We will use [react-navigation](https://github.com/react-navigation) or this newsletter. Let’s get cooking with it! 🍟.
 
-## Go-back screen transition based on Gesture
+## Custom Screen Transitions based on Gesture
 
 From now on, in React Native apps, developers can apply a screen transition effect based on users’ gestures (like swipe up, swipe left, etc) while going back to the previous screen. To make this feature ready, three open-source teams from Software Mansion came to the table.
 
@@ -40,7 +40,7 @@ In the next section, we will explore the necessary additions or upgrades to our 
 
 ## Install with React-Navigation
 
-To enable go-back screen transition with gesture let’s install the following packages.
+To enable Custom Screen Transitions with gesture let’s install the following packages.
 
 - First, install React Navigation:
 
@@ -64,9 +64,9 @@ You can check the reanimated **V3.9** pre-release note from here [(Change Log of
 
 ## Code Example
 
-To enable go-back screen transitions based on gestures, we need to modify our **navigation file** (the file that declares the names of each screen to navigate). We will use **“App.js”** as our navigation file in this example.
+To enable Custom Screen Transitions based on gestures, we need to modify our **navigation file** (the file that declares the names of each screen to navigate). We will use **“App.js”** as our navigation file in this example.
 
-1.  We have to import **“createNativeStackNavigator”** from **“react-native-screens/native-stack”** instead of **“@react-navigation/native-stack”**. They both provide the same functionalities on navigation but “react-native-screens/native-stack” provides an extra functionality for handling go-back screen transition.
+1.  We have to import **“createNativeStackNavigator”** from **“react-native-screens/native-stack”** instead of **“@react-navigation/native-stack”**. They both provide the same functionalities on navigation but “react-native-screens/native-stack” provides an extra functionality for handling Custom Screen Transitions.
 
 2.  We need to wrap the <**NavigationContainer />** component by using **\<GestureDetectorProvider />** from **“react-native-screens/gesture-handler”**. The GestureDetectorProvider enables you to recognize and handle various gestures (like swipes, pinches, rotations, etc.) in your React Native app.
 
@@ -146,7 +146,7 @@ function App() {
 
 We used the “**twoDimensionalSwipe**” gesture for “ScreenA” & “**swipeDown**” gesture for “ScreenB”. You are all set 🚀.
 
-For your information, below are all the available gestures from **React Native Screen**:
+For your information, below are all the available gestures from **React Native Screens**:
 
 - swipeRight
 
@@ -191,6 +191,6 @@ Design your screens (components) **ScreenA** and **ScreenB**. Reload your app, n
 
 ## That’s it 🙌
 
-The **V3.30** release in **React Native Screen** introduces enhanced transition animations for smoother and more visually appealing navigation when returning to the previous screen.
+The **V3.30** release in **React Native Screens** introduces enhanced transition animations for smoother and more visually appealing navigation when returning to the previous screen.
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
