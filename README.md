@@ -41,6 +41,6 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### ✅ More of my R&D coming soon 🚀
+### ✅ More of my R&D coming soon (Upcoming - Expo SDK 51) 🚀
 
 # 🚀 Check my FREE ["RN Advanced Guide Book"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
