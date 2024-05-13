@@ -10,7 +10,7 @@
 
 # Table of Contents (Published 3)
 
-### [✅ 001 - R&D on React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
+### [✅ 001 - What's new in React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
 
     - React Native Skia Background Research
     - Install React Native Skia
@@ -20,7 +20,7 @@
     - Efficient Lottie Animations with RN Skia
     - Canvaskit-js by RN Skia
 
-### [✅ 002 - R&D on React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
+### [✅ 002 - What's new in React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
 
     - React Native Screen Background Research
     - Feature R&D: Custom screen transition
@@ -28,7 +28,7 @@
     - SDK: react-native-screens/native-stack
     - SDK: react-native-reanimated V3.9 (pre-release)
 
-### [✅ 003 - R&D on React Native Release V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
+### [✅ 003 - What's new in React Native V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
 
     - Yoga: The layout engine
     - Yoga 3.0 — what’s new?
@@ -41,6 +41,6 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### ✅ More of my R&D coming soon (Upcoming - Expo SDK 51) 🚀
+### ✅ More of my R&D coming soon (Upcoming - What's new in Expo SDK 51) 🚀
 
 # 🚀 Check my FREE ["RN Advanced Guide Book"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
