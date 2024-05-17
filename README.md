@@ -41,7 +41,7 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
+### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ExpoSdk51.md)
 
     - Added support for Bridgeless Mode
     - "Next" Camera and SQLite APIs are now the defaults
