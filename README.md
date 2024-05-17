@@ -41,6 +41,17 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### ✅ More of my R&D coming soon (Upcoming - What's new in Expo SDK 51) 🚀
+### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
+
+    - Added support for Bridgeless Mode
+    - "Next" Camera and SQLite APIs are now the defaults
+    - New and improved Video package.
+    - Introducing expo-symbols
+    - Fingerprint runtime version policy promoted from experimental to beta
+    - Expo Router v3.5
+    - EAS Update: Rollout new web UI
+    - New project template 🚀
+
+### ✅ More of my R&D coming soon 🚀
 
 # 🚀 Check my FREE ["RN Advanced Guide Book"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
