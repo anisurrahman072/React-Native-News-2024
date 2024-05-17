@@ -8,7 +8,7 @@
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
-# Table of Contents (Published 3)
+# Table of Contents (Published 4)
 
 ### [✅ 001 - What's new in React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
 
