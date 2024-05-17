@@ -3,14 +3,14 @@
 ![](./images/home.png)
 
 - Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases (**[🐥 CONNECT me in X](https://twitter.com/anis_RNCore)**)
-- Writing Newsletter on my R&D for **#NotJustDev** community to 40K+ dev (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev) for selecting me as a writer)
+- Writing Newsletter on my R&D for **#NotJustDev** community to **40K+** dev (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev) for selecting me as an R&D engineer & writer)
 - Each topic I choose are latest releases of different RN SDKs
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
 # Table of Contents (Published 3)
 
-### [✅ R&D on React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
+### [✅ 001 - What's new in React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
 
     - React Native Skia Background Research
     - Install React Native Skia
@@ -20,7 +20,7 @@
     - Efficient Lottie Animations with RN Skia
     - Canvaskit-js by RN Skia
 
-### [✅ R&D on React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
+### [✅ 002 - What's new in React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
 
     - React Native Screen Background Research
     - Feature R&D: Custom screen transition
@@ -28,7 +28,7 @@
     - SDK: react-native-screens/native-stack
     - SDK: react-native-reanimated V3.9 (pre-release)
 
-### [✅ R&D on React Native Release V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
+### [✅ 003 - What's new in React Native V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
 
     - Yoga: The layout engine
     - Yoga 3.0 — what’s new?
@@ -41,6 +41,6 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### ✅ More of my R&D coming soon 🚀
+### ✅ More of my R&D coming soon (Upcoming - What's new in Expo SDK 51) 🚀
 
 # 🚀 Check my FREE ["RN Advanced Guide Book"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
