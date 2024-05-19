@@ -10,23 +10,16 @@
 
 # Table of Contents (Published 4)
 
-### [✅ 001 - What's new in React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
+### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ExpoSdk51.md)
 
-    - React Native Skia Background Research
-    - Install React Native Skia
-    - Rich Text Layouts using the New Paragraph API
-    - New Animation Hooks
-    - New Atlas API
-    - Efficient Lottie Animations with RN Skia
-    - Canvaskit-js by RN Skia
-
-### [✅ 002 - What's new in React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
-
-    - React Native Screen Background Research
-    - Feature R&D: Custom screen transition
-    - Install RN Screen with React-Navigation
-    - SDK: react-native-screens/native-stack
-    - SDK: react-native-reanimated V3.9 (pre-release)
+    - Added support for Bridgeless Mode
+    - "Next" Camera and SQLite APIs are now the defaults
+    - New and improved Video package.
+    - Introducing expo-symbols
+    - Fingerprint runtime version policy promoted from experimental to beta
+    - Expo Router v3.5
+    - EAS Update: Rollout new web UI
+    - New project template 🚀
 
 ### [✅ 003 - What's new in React Native V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
 
@@ -41,16 +34,23 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ExpoSdk51.md)
+### [✅ 002 - What's new in React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
 
-    - Added support for Bridgeless Mode
-    - "Next" Camera and SQLite APIs are now the defaults
-    - New and improved Video package.
-    - Introducing expo-symbols
-    - Fingerprint runtime version policy promoted from experimental to beta
-    - Expo Router v3.5
-    - EAS Update: Rollout new web UI
-    - New project template 🚀
+    - React Native Screen Background Research
+    - Feature R&D: Custom screen transition
+    - Install RN Screen with React-Navigation
+    - SDK: react-native-screens/native-stack
+    - SDK: react-native-reanimated V3.9 (pre-release)
+    
+### [✅ 001 - What's new in React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
+
+    - React Native Skia Background Research
+    - Install React Native Skia
+    - Rich Text Layouts using the New Paragraph API
+    - New Animation Hooks
+    - New Atlas API
+    - Efficient Lottie Animations with RN Skia
+    - Canvaskit-js by RN Skia
 
 ### ✅ More of my R&D coming soon 🚀
 
