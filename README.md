@@ -8,8 +8,30 @@
 
 ### 🙏 If you find my R&D helpful, please give a STAR ⭐️
 
-# Table of Contents (Published 4)
+# Table of Contents (Published 5 - Topics 49)
 
+### [✅ 005 - What's new in React Conf 2024?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactConf2024.md)
+
+    - React 19 RC (Release Candidate)
+    - What is RSC?
+    - Client Side Rendering (CSR)
+    - Server Side Rendering (SSR)
+    - React Server Components in Expo Router
+    - The Expo Router
+    - Server-driven UI: RSC
+    - RSC with Expo Router
+    - RSC data pattern
+    - React Compiler
+    - How does React Compiler work?
+    - What React Compiler memoize?
+    - Rules of React
+    - React Router v7
+    - The React Router
+    - Vite Plugin for Remix
+    - The React Router V7
+    - React Native for Apple Vision Pro
+    - React Native VisionOS
+        
 ### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ExpoSdk51.md)
 
     - Added support for Bridgeless Mode
