@@ -194,4 +194,4 @@ Yarn 3 speeds up the process of installing and updating dependencies and optimiz
 
 React Native version **0.74** introduced significant improvements in component layout, architecture, batched onLayout updates, and integration with Yarn 3.
 
-### 🙏 If you find my R&D helpful, please give a STAR ⭐️
+### [🙏 If you find my R&D helpful, please give a STAR ⭐️](https://github.com/anisurrahman072/React-Native-SDK-Research)

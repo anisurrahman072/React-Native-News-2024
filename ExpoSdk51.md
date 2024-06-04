@@ -145,4 +145,4 @@ The Expo team has simplified the process of beginning development with **SDK 51*
 
 Expo SDK 51 features React Native 0.74, supports the New Architecture bridgeless mode across most Expo modules, introduces a new default project template, and defaults to the “Next” Camera and SQLite APIs, with legacy APIs available during this SDK cycle.
 
-### 🙏 If you find my R&D helpful, please give a STAR ⭐️
+### [🙏 If you find my R&D helpful, please give a STAR ⭐️](https://github.com/anisurrahman072/React-Native-SDK-Research)
