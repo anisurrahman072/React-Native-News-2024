@@ -95,7 +95,7 @@ In Expo SDK 51, the **Fingerprint runtime** version policy has been promoted fro
 
 ### What is **Fingerprint?**
 
-Fingerprint is a **hash value (**a long string of numbers and letters) that represents the exact state of your app’s native code at a certain point in time. When you make changes to the native code, you get a new “fingerprint” for the updated code.
+Fingerprint is a **hash value** (a long string of numbers and letters) that represents the exact state of your app’s native code at a certain point in time. When you make changes to the native code, you get a new “fingerprint” for the updated code.
 
 A real-life use case occurs when you install an npm package with native dependencies, the app creates a new fingerprint. For example: `npx expo install expo-camera` (for expo-based app) or `npm install react-native-vision-camera` (for bare react native app).
 
