@@ -12,7 +12,7 @@ Today, we will dive deep into all these tools that Expo provides for building a 
 - EAS Build
 - Expo Orbit
 
-**`*CREDITS:*`** A big thanks to [**Kadi Kraman**](https://x.com/kadikraman) and [\*\*Gabriel Donadel](https://x.com/donadeldev)** for their amazing talks on these topics at [**App Js Conf 2024](https://x.com/appjsconf).\*\*
+**CREDITS:** A big thanks to [**Kadi Kraman**](https://x.com/kadikraman) and [**Gabriel Donadel**](https://x.com/donadeldev) for their amazing talks on these topics at [**App Js Conf 2024**](https://x.com/appjsconf).
 
 # Expo Go
 
@@ -26,7 +26,7 @@ It is basically a native app with a whole bunch of native capabilities & debug t
 2. Expo Go can’t bundle (collect all the necessary code) native libraries that require custom inputs from the user, such as **`react-native-firebase`**. Because the Expo Go app includes a bundle of all supported native modules (e.g., **`expo-camera`**). However, when a native module depends on user inputs, the bundle code also changes.
 3. If a library publishes a new fix or new changes, then **Expo Go** needs to recreate a new bundle with those fixes and changes. This means developers need to wait until a new release of Expo Go is available, which includes the latest bundle with those fixes in the library.
 
-**`*NOTE:*`** With all the limitations of Expo Go (mentioned above), the Expo team does not recommend using Expo Go for production. Instead, they have built a new mechanism called ‘Development Build,’ which fixes all the problems mentioned earlier.
+**NOTE:** With all the limitations of Expo Go (mentioned above), the Expo team does not recommend using Expo Go for production. Instead, they have built a new mechanism called ‘Development Build,’ which fixes all the problems mentioned earlier.
 
 # Development Build
 
@@ -62,7 +62,7 @@ npx expo run:android
 npx expo run:ios
 ```
 
-**`*NOTE:*`** To run the **development build** in Android you need to have **Android Studio** & in iOS you need to have **Xcode** installed in your local machine.
+**NOTE:** To run the **development build** in Android you need to have **Android Studio** & in iOS you need to have **Xcode** installed in your local machine.
 
 # EAS build
 
@@ -86,7 +86,7 @@ So, after the EAS build, you can open the app either by using a QR code (for a r
 
 Before **Orbit**, installing **development builds** or **updates from EAS** (on Android and iOS physical devices or emulator/simulator) or running Snack projects on simulators was manual & time-consuming.
 
-For instance, to install a **development** **build**, first, you need to download the archive from the builds that you created. Next, open the iOS simulators from Xcode and then drag and drop it into the simulator (in the case of iOS). A demo of it was shown by [\*\*Gabriel Donadel](https://x.com/donadeldev)\*\* in App Js Conf 2024.
+For instance, to install a **development** **build**, first, you need to download the archive from the builds that you created. Next, open the iOS simulators from Xcode and then drag and drop it into the simulator (in the case of iOS). A demo of it was shown by [**Gabriel Donadel**](https://x.com/donadeldev) in App Js Conf 2024.
 
 ![download (4) (1).gif](../images/ExpoGoToEASBuild/img3.gif)
 
@@ -98,7 +98,7 @@ All of these complicated and lengthy processes daily are too much 🤦.
 
 ### Expo Orbit in action 🚀
 
-Recently, the [**Expo**](https://expo.dev/) team released [**Expo Orbit**](https://docs.expo.dev/build/orbit/) (a macOS menu bar app that enables one-click build launches, and simulator management) **V1.0** in November 2023. Then in March of this year, they released **V1.1**, which supports launching **EAS Updates** (live app updates for a cloud build) directly in Android Emulators and iOS Simulators. Lastly, just a couple of days ago, [**Gabriel Donadel**](https://x.com/donadeldev) announced that from now on, **Expo Orbit** will also be supported on **Windows & Linux** (still in the [\*\*Pre-release](https://github.com/expo/orbit/releases/tag/expo-orbit-v2.0.0-preview.1)\*\* phase).
+Recently, the [**Expo**](https://expo.dev/) team released [**Expo Orbit**](https://docs.expo.dev/build/orbit/) (a macOS menu bar app that enables one-click build launches, and simulator management) **V1.0** in November 2023. Then in March of this year, they released **V1.1**, which supports launching **EAS Updates** (live app updates for a cloud build) directly in Android Emulators and iOS Simulators. Lastly, just a couple of days ago, [**Gabriel Donadel**](https://x.com/donadeldev) announced that from now on, **Expo Orbit** will also be supported on **Windows & Linux** (still in the [**Pre-release**](https://github.com/expo/orbit/releases/tag/expo-orbit-v2.0.0-preview.1) phase).
 
 So, **Expo Orbit** makes all of the steps mentioned above as seamless as possible. As mentioned earlier, It is now very simple to launch your Android emulators and iOS simulators using Expo Orbit from the menu bar, as shown below.
 
@@ -138,4 +138,4 @@ I hope that, with all the magic of Expo Orbit mentioned above, you are intereste
 brew install expo-orbit
 ```
 
-**`*NOTE:*`** You can download Orbit for **Windows** directly from the [GitHub releases](https://github.com/expo/orbit/releases/tag/expo-orbit-v2.0.0-preview.1).
+**NOTE:** You can download Orbit for **Windows** directly from the [GitHub releases](https://github.com/expo/orbit/releases/tag/expo-orbit-v2.0.0-preview.1).
