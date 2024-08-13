@@ -77,7 +77,7 @@ Let’s understand each point of this new architecture of React Native Skia 🚀
 
 # React Native IDE
 
-Another exciting news is that [\*\*Krzysztof Magiera](https://x.com/kzzzf), co-founder of [Software Mansion](https://x.com/swmansion),** has announced the **open beta program\*\* for React Native IDE. It has been 9 months since they began working on it, and they have made significant progress.
+Another exciting news is that [**Krzysztof Magiera**](https://x.com/kzzzf), co-founder of [**Software Mansion**](https://x.com/swmansion), has announced the **open beta program** for React Native IDE. It has been 9 months since they began working on it, and they have made significant progress.
 
 ### Too much stuff for setting up environment 🤦
 
@@ -146,7 +146,7 @@ The **Expo Router** AI app (the rightmost app below) uses Server-driven UI but w
 
 ![](./images/AppJsConf2024/img16.gif)
 
-**`*NOTE:*`** **Evan Bacon** delivered the same talk a couple of weeks ago at React Conf 2024, and we have already explained this talk in detail in the previous newsletter **“🚀 What’s new in React Conf 2024”.** You will also find it as a blog post on the [**NotJustDev website**](https://www.notjust.dev/blog) later. 💯
+**NOTE:** **Evan Bacon** delivered the same talk a couple of weeks ago at React Conf 2024, and we have already explained this talk in detail in the previous newsletter **“🚀 What’s new in React Conf 2024”.** You will also find it as a blog post on the [**NotJustDev website**](https://www.notjust.dev/blog) later. 💯
 
 # Starlink with React Native
 
