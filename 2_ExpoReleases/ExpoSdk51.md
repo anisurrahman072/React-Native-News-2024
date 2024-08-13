@@ -13,7 +13,7 @@ Hey **React Native** Developers,
 7. **EAS Update: Rollout new web UI**
 8. **New project template 🚀**
 
-![alt text](./images/ExpoSdk51/image.png)
+![alt text](../images/ExpoSdk51/image.png)
 
 # **Added support for Bridgeless Mode**
 
@@ -87,7 +87,7 @@ The team has introduced expo-symbols (currently an iOS-only package) that provid
 
 One of the special features of **`expo-symbols`** is the ability to perform **variable color animations**. This means you can draw attention to a symbol by changing the opacity of the symbol’s layers, either **cumulatively** (where each change in opacity is added to the previous, resulting in a gradual build-up) or **iteratively** (where each change in opacity is applied one after the other in a sequence, often looping back to the start).
 
-![alt text](./images/ExpoSdk51/image-1.gif)
+![alt text](../images/ExpoSdk51/image-1.gif)
 
 # **Fingerprint of native runtime**
 
@@ -103,7 +103,7 @@ A real-life use case occurs when you install an npm package with native dependen
 
 The new **`@expo/fingerprint`** package fully supports projects made with [Expo CLI](https://docs.expo.dev/more/expo-cli/) and also works with any [bare React Native apps](https://docs.expo.dev/bare/overview/) to detect any changes in native code. By running **`npx @expo/fingerprint@latest /path/to/yourProject`**, you can get a full picture of your project's native setup. Notice that it will identify what changed, for example, if you installed **expo-camera,** you will see something like this.
 
-![alt text](./images/ExpoSdk51/image-2.png)
+![alt text](../images/ExpoSdk51/image-2.png)
 
 ### Why **@expo/fingerprint?**
 
@@ -133,13 +133,13 @@ const { "#": hash } = useLocalSearchParams();
 
 With **SDK 50**, the Expo team introduced **‘rollouts’** (**gradual updates**). This feature lets you update your app for some users first, which helps prevent bugs from affecting everyone at once. Initially, this could only be done using **EAS CLI**. Now, with **SDK 51**, the Expo team has provided an easy-to-use online tool that makes managing these updates more straightforward.
 
-![alt text](./images/ExpoSdk51/image-3.png)
+![alt text](../images/ExpoSdk51/image-3.png)
 
 # **New project template 🚀**
 
 The Expo team has simplified the process of beginning development with **SDK 51**. When you start a new project using **`npx create-expo-app`**, you’ll be introduced to a **refreshed and updated project template**. This template already includes all the necessary dependencies and settings that most projects require, allowing you to start working on your project immediately without any delays.
 
-![alt text](./images/ExpoSdk51/image-4.png)
+![alt text](../images/ExpoSdk51/image-4.png)
 
 # **That’s it 🙌**
 
