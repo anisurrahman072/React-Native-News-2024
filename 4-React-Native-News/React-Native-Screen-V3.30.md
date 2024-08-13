@@ -6,7 +6,7 @@ We’re thrilled to share some exciting news from **Software Mansion**! 🚀 In 
 
 In today’s newsletter, we’ll dive into the code and explore how we can harness this powerful feature in our React Native apps.
 
-![](./images/ReactNativeScreen3.30/output.gif)
+![](../images/ReactNativeScreen3.30/output.gif)
 
 Before we delve further, let’s explore the essential groundwork of React Native Screens.
 
@@ -187,7 +187,7 @@ export default function Home({ navigation: { navigate } }) {
 
 Design your screens (components) **ScreenA** and **ScreenB**. Reload your app, navigate from the Home screen to **“ScreenA”**, and then swipe in any direction as we’ve set up **“twoDimensionalSwipe”** for ScreenA. For **“ScreenB”**, perform a swipe down, as we’ve configured **“swipeDown”** for it. You’ll observe an effect like the one shown below: 👇
 
-![](./images/ReactNativeScreen3.30/output.gif)
+![](../images/ReactNativeScreen3.30/output.gif)
 
 ## That’s it 🙌
 
