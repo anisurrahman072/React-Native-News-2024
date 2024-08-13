@@ -10,7 +10,7 @@ The biggest **React** Conference, organized by [**Meta**](https://x.com/Meta) an
 4. React Router v7
 5. React Native for Apple Vision Pro
 
-![alt text](./images/ReactConf2024/image.png)
+![alt text](../images/ReactConf2024/image.png)
 Picture credit by [@mattcarrollcode](https://x.com/mattcarrollcode)
 
 # React 19 RC
@@ -52,7 +52,7 @@ To learn more about this talk, let’s first understand what the Expo Router is.
 
 Expo Router is the first file-based routing system to build react apps that run on both web & native platforms.
 
-![alt text](./images/ReactConf2024/image-1.png)
+![alt text](../images/ReactConf2024/image-1.png)
 
 With the help of **Expo Router**, the RSC server can handle multi-platform requests. When a request is made from an iOS or Android device, or even from a web browser, the server recognizes the platform and renders the appropriate version of the server components.
 
@@ -70,11 +70,11 @@ The main goal of Expo Router is to make this server-driven UI interactive for de
 2. **Gemini AI App:** It is the same as the ChatGPT 4 application.
 3. **Expo Router AI App:** It also uses Server-driven UI but with an RSC data pattern (where server sends directly JSX code to the client device). This enables users to interact with the UI seamlessly. For instance, Evan Bacon demonstrated this by performing a long press on an image, which then opened a menu. Moreover, the RSC data pattern allows for the integration of native access, such as scheduling a date in the calendar, with the rendered JSX component.
 
-![alt text](<./images/ReactConf2024/1_oSDHruDpYagReAGJC7-TSw (1).gif>)
+![alt text](<../images/ReactConf2024/1_oSDHruDpYagReAGJC7-TSw (1).gif>)
 
 In the Expo Router AI app, we observed Evan Bacon demonstrating a Map view (below). This Map view is a client component because it relies on the Native API. However, all the data for this Map was fetched on the server, and the carousel at the bottom, which we also received, was rendered using a React Server Component.
 
-![alt text](<./images/ReactConf2024/Untitled design (5) (1) (1).gif>)
+![alt text](<../images/ReactConf2024/Untitled design (5) (1) (1).gif>)
 
 **`NOTE:`** The RSC server sends only JavaScript code to the client. It does not transmit any native bindings or native code (for example, Calendar API, Map API, etc.) to the client’s device.
 
@@ -84,7 +84,7 @@ Now, let’s learn a bit about the data pattern that RSC uses.
 
 When a **client** (web or mobile device) requests the Server then an **`RSC payload`** (static representation of the JSX code) is sent back with suspense (**loading components**) to keep the stream open.
 
-![alt text](./images/ReactConf2024/image-2.png)
+![alt text](../images/ReactConf2024/image-2.png)
 
 These are the key points that an **RSC payload** carries and executes during the stream’s progress:
 
@@ -95,7 +95,7 @@ These are the key points that an **RSC payload** carries and executes during the
 
 Below is the final data pattern illustrating how the **RSC server** transmits data to the client (web, desktop, or mobile), as presented by **Evan Bacon** on stage.
 
-![alt text](./images/ReactConf2024/image-3.png)
+![alt text](../images/ReactConf2024/image-3.png)
 
 # React Compiler
 
@@ -165,7 +165,7 @@ Let’s easily understand which React rules should be followed to fully achieve 
 - Static pre-rendering (Builds static pages early for speed/SEO)
 - RSC (React Server Component) coming soon
 
-![alt text](./images/ReactConf2024/image-4.png)
+![alt text](../images/ReactConf2024/image-4.png)
 
 To know more about it, let’s first understand what React Router is.
 
@@ -181,7 +181,7 @@ Both **`React Router` & `react-router-dom`** were built by the [**Remix**](https
 
 In October 2023, the remix team integrated **`Vite`** with **`Remix`** (a **full-stack web framework** built on top of **`React Router`**). Then, in February 2024, the team announced **Vite Plugin** as stable in Remix v2.7.0.
 
-![alt text](./images/ReactConf2024/image-5.png)
+![alt text](../images/ReactConf2024/image-5.png)
 
 At this point, **`Remix`** is just a **`Vite plugin`** that makes **`React Router`** more convenient to use and deploy. Outside of the plugin, **Remix** pretty much just re-exports **React Router**.
 
@@ -211,7 +211,7 @@ npx @callstack/react-native-visionos@latest init NotJustDevVisionApp
 
 [**Michal**](https://x.com/thymikee) presented a live demo in which he loaded a 3D element with an impressive space background, powered by JavaScript, React Native Gesture Handler, and React Native Reanimated. 🚀
 
-![alt text](<./images/ReactConf2024/Untitled design (7) (1) (1).gif>)
+![alt text](<../images/ReactConf2024/Untitled design (7) (1) (1).gif>)
 
 # **That’s it 🙌**
 
