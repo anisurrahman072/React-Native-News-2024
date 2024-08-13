@@ -1,6 +1,6 @@
 # What’s new in App.js Conf 2024?
 
-Hey notJust Developers,
+Hey React Native Developers,
 
 One of the biggest and most exciting conferences on **React Native**, organized by [**Software Mansion**](https://x.com/swmansion) with [**Expo**](https://x.com/expo) as the main partner and [notJust.dev](https://www.notjust.dev/) as the Media Partner among others, has recently concluded. The three-day event started on May 22nd, filled with exciting announcements. Let’s dive in 🚀
 
