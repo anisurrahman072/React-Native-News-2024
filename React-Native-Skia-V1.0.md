@@ -1,4 +1,4 @@
-# Empowering Creativity: React Native Skia 1.0 Adds 5 Exciting Features for Animators
+# React Native Skia 1.0 with 5 Exciting Features for Animators
 
 Hey **React Native** Developers,
 
