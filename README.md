@@ -11,7 +11,7 @@
 
 # Table of Contents (130+ Topics)
 
-### [✅ 020 - React Native Now with On-Device ML (Machine Learning) Expertise 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
+### [✅ 020 - React Native now with On-Device ML (Machine Learning) Expertise 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
 
     - Before the Google ML Kit
     - Google ML Kit in action 💯
