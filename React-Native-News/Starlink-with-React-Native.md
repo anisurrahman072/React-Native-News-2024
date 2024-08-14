@@ -1,4 +1,4 @@
-# Starlink with React Native
+# Starlink App was built with React Native 😳
 
 Hey React Native Developers,
 
