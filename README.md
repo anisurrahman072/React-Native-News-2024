@@ -11,10 +11,25 @@
 
 # Table of Contents (70+ Topics)
 
-### [✅ 0018 - All about React Native New Architecture 🎯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
+### [✅ 018 - All about React Native New Architecture 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
 
-    - a
-    - b
+    - The OLD Architecture
+    - Bridge for communication: Drawbacks
+    - New Architecture in Action 🚀
+    - All Components of New Architecture
+    - New Architecture - two Phases
+    - Codegen (Native Code Generator)
+    - Codegen in real life
+    - JSI (JavaScript Interface)
+    - JSI solved the asynchronous issue 🚀
+    - Fabric (new rendering engine)
+    - Fabric spreads react native everywhere 🔥
+    - Turbo Module (new native module)
+    - Hermes
+    - Workflow of Hermes with New Architecture 🙌
+    - React 18 with New Architecture
+    - Ship to New Architecture 🚀
+    - Why invest in New Architecture 🎯
 
 ### [✅ 017 - The Magic of new Expo Orbit 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Orbit.md)
 
