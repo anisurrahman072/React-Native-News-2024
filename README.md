@@ -9,7 +9,7 @@
 
 # Table of Contents (70+ Topics)
 
-### [✅ 007 - RSC (React Server Components) in All Platform By Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
+### [✅ 007 - RSC (React Server Components) now in All Platform By Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
 
     - The Expo Router
     - Server-driven UI: RSC
