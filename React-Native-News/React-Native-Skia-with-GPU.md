@@ -1,4 +1,4 @@
-# React Native Skia with GPU
+# React Native Skia now with GPU 💥
 
 Hey React Native Developers,
 
