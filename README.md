@@ -1,14 +1,13 @@
 # React Native News - 2024
 
-![](./images/home2.png)
+![](./images/home3.png)
 
-- Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases (**[🐥 CONNECT me in X](https://twitter.com/anis_RNCore)**)
-- Writing Newsletter on my R&D for **#NotJustDev** community to **40K+** dev (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev) for selecting me as an R&D engineer & writer)
-- Each topic I choose are latest releases of different RN SDKs
+- I'm doing deep R&D on React Native SDKs latest releases (**[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)**)
+- Writing Newsletter on my R&D for **#NotJustDev** community to **42K+** devs (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev))
 
-### 🙏 If you find my R&D helpful, please give a STAR ⭐️
+- 🙏 If you find the news helpful, please give a STAR ⭐️
 
-# Table of Contents (Published 5 - Topics 49)
+# Table of Contents (70+ Topics)
 
 ### [✅ 005 - What's new in React Conf 2024?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactConf2024.md)
 
