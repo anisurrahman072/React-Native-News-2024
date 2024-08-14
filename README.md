@@ -5,9 +5,22 @@
 - I'm doing deep R&D on React Native SDKs latest releases for over **4 years** (**[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)**)
 - Writing Newsletter on my R&D for **#NotJustDev** community to **42K+** devs (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev))
 
+- All the basics of React Native & Expo is here for you 🙋‍♂️
+
 - 🙏 If you find the news helpful, please give a **STAR** ⭐️
 
 # Table of Contents (70+ Topics)
+
+### [✅ 017 - The Magic of new Expo Orbit 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Orbit.md)
+
+    - Installing Dev Builds pain
+    - Running Snacks pain
+    - Expo Orbit in action 🚀
+    - Installing Dev Builds by Expo Orbit
+    - Installing Snack projects by Expo Orbit
+    - Installing EAS Updates
+    - Expo Orbit now supports multi-platforms 🚀
+    - Install Expo Orbit
 
 ### [✅ 016 - 𝝠 Expo New Workflows (Expo Go, Dev builds, prebuild, CNG, EAS, Orbit)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md)
 
