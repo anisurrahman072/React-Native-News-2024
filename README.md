@@ -5,7 +5,7 @@
 - I'm doing deep R&D on React Native SDKs latest releases (**[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)**)
 - Writing Newsletter on my R&D for **#NotJustDev** community to **42K+** devs (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev))
 
-- 🙏 If you find the news helpful, please give a STAR ⭐️
+- 🙏 If you find the news helpful, please give a **STAR** ⭐️
 
 # Table of Contents (70+ Topics)
 
