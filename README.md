@@ -1,4 +1,4 @@
-# React Native Advanced SDK R&Ds
+# React Native News 2024
 
 ![](./images/home2.png)
 
