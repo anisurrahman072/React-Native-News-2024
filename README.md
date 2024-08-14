@@ -1,6 +1,6 @@
 # React Native Advanced SDK R&Ds
 
-![](./images/home1.png)
+![](./images/home2.png)
 
 - Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases (**[🐥 CONNECT me in X](https://twitter.com/anis_RNCore)**)
 - Writing Newsletter on my R&D for **#NotJustDev** community to **40K+** dev (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev) for selecting me as an R&D engineer & writer)
