@@ -9,10 +9,14 @@
 
 # Table of Contents (70+ Topics)
 
-### [✅ 012 - ]()
+### [✅ 012 - React Native Skia now with GPU 💥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-with-GPU.md)
 
-    - a
-    - b
+    - React Native Skia Video
+    - Image Shaders API
+    - Skia with Ambient Mode
+    - The Native Buffer API
+    - WebGPU: 3D API with React Native Skia
+    - New Architecture with React Native Skia
 
 ### [✅ 011 - What’s new in App.js Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/App-Js-Conf-2024.md)
 
