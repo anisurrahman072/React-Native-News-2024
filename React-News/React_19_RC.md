@@ -1,4 +1,4 @@
-# React 19 RC
+# RSC (React Server Component) now in React 19 💯
 
 Hey **React Native** Developers,
 
