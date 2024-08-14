@@ -1,6 +1,6 @@
 # React Native Advanced SDK R&Ds
 
-![](./images/home.png)
+![](./images/home1.png)
 
 - Hi, **React Native devs**, I'm doing deep R&D on RN SDKs latest releases (**[🐥 CONNECT me in X](https://twitter.com/anis_RNCore)**)
 - Writing Newsletter on my R&D for **#NotJustDev** community to **40K+** dev (Big thanks to [@VadimNotJustDev](https://twitter.com/VadimNotJustDev) for selecting me as an R&D engineer & writer)
@@ -31,7 +31,7 @@
     - The React Router V7
     - React Native for Apple Vision Pro
     - React Native VisionOS
-        
+
 ### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ExpoSdk51.md)
 
     - Added support for Bridgeless Mode
@@ -63,7 +63,7 @@
     - Install RN Screen with React-Navigation
     - SDK: react-native-screens/native-stack
     - SDK: react-native-reanimated V3.9 (pre-release)
-    
+
 ### [✅ 001 - What's new in React Native Skia V1.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeSkia1.0.md)
 
     - React Native Skia Background Research
