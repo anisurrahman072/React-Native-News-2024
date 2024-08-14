@@ -9,6 +9,14 @@
 
 # Table of Contents (70+ Topics)
 
+### [✅ 011 - What’s new in App.js Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/App-Js-Conf-2024.md)
+
+    - React Native Skia with GPU 🔥
+    - React Native IDE
+    - React Server Components in Expo Router
+    - Starlink with React Native 💯
+    - React Native Frameworks
+
 ### [✅ 010 - React Native for Apple Vision Pro 👨‍🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/RN-for-Apple-Vision-Pro.md)
 
     - React Native for Apple Vision Pro
