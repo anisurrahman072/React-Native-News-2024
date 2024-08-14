@@ -55,7 +55,7 @@
     - How “onLayout" batch update works?
     - Yarn 3 for New Projects
 
-### [✅ 002 - What's new in React Native Screen V3.30.0](https://github.com/anisurrahman072/NotJustDevNewsLetter/blob/master/ReactNativeScreen3.30.md)
+### [✅ 002 - What's new in React Native Screen V3.30.0](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Screen-V3.30.md)
 
     - React Native Screen Background Research
     - Feature R&D: Custom screen transition
