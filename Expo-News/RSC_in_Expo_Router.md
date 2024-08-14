@@ -1,4 +1,4 @@
-# React Server Components in Expo Router
+# RSC (React Server Components) in All Platform By Expo Router 🔥
 
 Hey **React Native** Developers,
 
