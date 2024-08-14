@@ -42,7 +42,7 @@
     - EAS Update: Rollout new web UI
     - New project template 🚀
 
-### [✅ 003 - What's new in React Native V0.74](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ReactNativeV0.74.md)
+### [✅ 003 - React Native V0.74 — Stable is out 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Releases/React-Native-V0.74.md)
 
     - Yoga: The layout engine
     - Yoga 3.0 — what’s new?
