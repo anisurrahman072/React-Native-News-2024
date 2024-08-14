@@ -1,4 +1,4 @@
-# 🚀 Server-Defined Rendering for React Native
+# SDR (Server-Defined Rendering) now in React Native 🌞
 
 Hey React Native Developers,
 

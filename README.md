@@ -11,6 +11,17 @@
 
 # Table of Contents (70+ Topics)
 
+### [✅ 019 - SDR (Server-Defined Rendering) now in React Native 🌞](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Rise-Tools-with-SDR.md)
+
+    - Before Rise Tools
+    - Rise Tools in action 🔥
+    - Server Defined Rendering (SDR) 🚀
+    - Rise Tools with Tamagui
+    - Complete the Feedback Form 🙌
+    - Rise Kit
+    - Create your own Rise Server
+    - Rise Playground
+
 ### [✅ 018 - All about React Native New Architecture 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
 
     - The OLD Architecture
