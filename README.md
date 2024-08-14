@@ -21,6 +21,7 @@
     - Rise Kit
     - Create your own Rise Server
     - Rise Playground
+    - Other Rendering Processes (CSR, SSR, RSC)
 
 ### [✅ 018 - All about React Native New Architecture 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
 
