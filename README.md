@@ -13,8 +13,13 @@
 
 ### [✅ 020 - React Native Now with On-Device ML (Machine Learning) Expertise 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
 
-    - a
-    - b
+    - Before the Google ML Kit
+    - Google ML Kit in action 💯
+    - What is Google ML Kit?
+    - Google ML Kit in React Native 🔥
+    - Code with React Native MLKit
+    - Code for Face Detection feature
+    - Live App on Stores 🚀
 
 ### [✅ 019 - SDR (Server-Defined Rendering) now in React Native 🤟](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Rise-Tools-with-SDR.md)
 
