@@ -1,4 +1,4 @@
-# React Router v7
+# React Router V7 announced as Remix 🤷‍♂️
 
 Hey **React Native** Developers,
 

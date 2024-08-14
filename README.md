@@ -9,6 +9,12 @@
 
 # Table of Contents (70+ Topics)
 
+### [✅ 009 - React Router V7 announced as Remix 🤷‍♂️](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Router_V7.md)
+
+    - React Router v7 & it's background
+    - The React Router
+    - Vite Plugin for Remix
+
 ### [✅ 008 - React Compiler (Now in Experimental Release 🙌)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Compiler.md)
 
     - React Compiler
@@ -36,9 +42,6 @@
     - React Server Components in Expo Router
     - React Compiler
     - React Router v7
-    - The React Router
-    - Vite Plugin for Remix
-    - The React Router V7
     - React Native for Apple Vision Pro
     - React Native VisionOS
 
