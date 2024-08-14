@@ -75,4 +75,4 @@
 
 ### ✅ More of my R&D coming soon 🚀
 
-# 🚀 Check my FREE ["RN Advanced Guide Book"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
+# 🟣 Check my FREE [❝ RN Advanced Guide Book ❞](https://github.com/anisurrahman072/React-Native-Advanced-Guide) - 1700 STAR 💥
