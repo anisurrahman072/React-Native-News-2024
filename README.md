@@ -9,7 +9,7 @@
 
 - 🙏 If you find the news helpful, please give a **STAR** ⭐️
 
-# Table of Contents (70+ Topics)
+# Table of Contents (130+ Topics)
 
 ### [✅ 020 - React Native Now with On-Device ML (Machine Learning) Expertise 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
 
