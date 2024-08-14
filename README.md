@@ -1,4 +1,4 @@
-# React Native News - 2024
+# React Native News - 2024 🚀
 
 ![](./images/home.png)
 
