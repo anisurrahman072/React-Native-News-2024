@@ -1,4 +1,4 @@
-# How does React Native work behind the scenes? 🚀
+# All about React Native New Architecture 🎯
 
 Hey **React native** Developers,
 

@@ -11,6 +11,11 @@
 
 # Table of Contents (70+ Topics)
 
+### [✅ 0018 - All about React Native New Architecture 🎯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
+
+    - a
+    - b
+
 ### [✅ 017 - The Magic of new Expo Orbit 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Orbit.md)
 
     - Installing Dev Builds pain
