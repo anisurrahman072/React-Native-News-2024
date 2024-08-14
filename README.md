@@ -11,15 +11,14 @@
 
 ### [✅ 006 - RSC (React Server Component) now in React 19 💯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_19_RC.md)
 
-    - a
-    - b
-
-### [✅ 005 - What's new in React Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md)
-
     - React 19 RC (Release Candidate)
     - What is RSC?
     - Client Side Rendering (CSR)
     - Server Side Rendering (SSR)
+
+### [✅ 005 - What's new in React Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md)
+
+    - React 19 RC (Release Candidate)
     - React Server Components in Expo Router
     - The Expo Router
     - Server-driven UI: RSC
