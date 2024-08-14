@@ -1,4 +1,4 @@
-# React Native IDE
+# React Native IDE is now open 🎉
 
 Hey React Native Developers,
 
