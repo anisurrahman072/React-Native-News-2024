@@ -31,7 +31,7 @@
     - React Native for Apple Vision Pro
     - React Native VisionOS
 
-### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-SDK-Research/blob/master/ExpoSdk51.md)
+### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-SDK-Releases/Expo-Sdk51.md)
 
     - Added support for Bridgeless Mode
     - "Next" Camera and SQLite APIs are now the defaults
