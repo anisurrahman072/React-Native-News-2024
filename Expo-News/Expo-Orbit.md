@@ -1,4 +1,4 @@
-# **The Magic of Expo Orbit 🚀**
+# **The Magic of new Expo Orbit 🚀**
 
 Before **Orbit**, installing **development builds** or **updates from EAS** (on Android and iOS physical devices or emulator/simulator) or running Snack projects on simulators was manual & time-consuming.
 
