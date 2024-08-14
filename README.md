@@ -14,6 +14,7 @@
     - The Expo Router
     - Server-driven UI: RSC
     - RSC with Expo Router
+    - RSC data pattern
 
 ### [✅ 006 - RSC (React Server Component) now in React 19 💯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_19_RC.md)
 
