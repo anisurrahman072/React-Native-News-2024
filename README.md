@@ -9,6 +9,13 @@
 
 # Table of Contents (70+ Topics)
 
+### [✅ 008 - React Compiler (Now in Experimental Release 🙌)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Compiler.md)
+
+    - React Compiler
+    - How does React Compiler work?
+    - What React Compiler memoize?
+    - Rules of React
+
 ### [✅ 007 - RSC (React Server Components) now in All Platform By Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
 
     - The Expo Router
@@ -28,9 +35,6 @@
     - React 19 RC (Release Candidate)
     - React Server Components in Expo Router
     - React Compiler
-    - How does React Compiler work?
-    - What React Compiler memoize?
-    - Rules of React
     - React Router v7
     - The React Router
     - Vite Plugin for Remix
