@@ -9,10 +9,17 @@
 
 # Table of Contents (70+ Topics)
 
-### [✅ 013 - ]()
+### [✅ 013 - React Native IDE is now open 🎉](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-IDE.md)
 
-    - a
-    - b
+    - Too much stuff for setting up environment 🤦
+    - React Native IDE in action 🚀
+    - Snap Recording
+    - Component Inspector
+    - Access logs easily
+    - Access logs easily
+    - Navigation made easier
+    - Better Components preview
+    - Break Points without any other application 🚀
 
 ### [✅ 012 - React Native Skia now with GPU 💥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-with-GPU.md)
 
