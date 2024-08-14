@@ -11,6 +11,11 @@
 
 # Table of Contents (70+ Topics)
 
+### [✅ 020 - React Native Now with On-Device ML (Machine Learning) Expertise 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
+
+    - a
+    - b
+
 ### [✅ 019 - SDR (Server-Defined Rendering) now in React Native 🤟](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Rise-Tools-with-SDR.md)
 
     - Before Rise Tools
