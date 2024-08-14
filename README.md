@@ -9,10 +9,14 @@
 
 # Table of Contents (70+ Topics)
 
-### [✅ 016 - ]()
+### [✅ 016 - 𝝠 Expo New Workflows (Expo Go, Dev builds, prebuild, CNG, EAS, Orbit)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md)
 
-    - a
-    - b
+    - Expo Go
+    - Development Build
+    - Expo Dev Client and prebuild
+    - Convert an Expo Go to a Development Build
+    - EAS (Expo Application Services) Build
+    - Expo Orbit
 
 ### [✅ 015 - Rules of React Native Frameworks 👷‍♂️](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Frameworks.md)
 
