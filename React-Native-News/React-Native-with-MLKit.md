@@ -1,10 +1,6 @@
 # React Native Now with On-Device ML (Machine Learning) Expertise 🔥
 
-**DATE: <span style='color: green;'>Aug 15, 2024</span>**
-
-<code style="color: green;">Your green text here</code>
-
-Hi $\color{green}Green Text$
+**DATE: $\color{cyan} Aug 15, 2024$**
 
 Hey **React Native 🩵** Developers,
 
