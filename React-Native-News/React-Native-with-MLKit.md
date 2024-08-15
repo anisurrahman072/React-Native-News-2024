@@ -4,7 +4,7 @@
 
 <code style="color: green;">Your green text here</code>
 
-$$\color{green}Green Text$$
+Hi $\color{green}Green Text$
 
 Hey **React Native 🩵** Developers,
 
