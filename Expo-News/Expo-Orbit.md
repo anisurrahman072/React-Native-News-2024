@@ -2,15 +2,13 @@
 
 $\textcolor{chocolate}{\text{\textbf{Posted on Jun 27, 2024}}}$
 
-$\textbf{\textit{Posted on Jun 27, 2024}}$
-
 Hey **React Native 🩵** Developers,
 
 The [**Expo**](https://x.com/expo) team has made mobile app development super interesting. Recently they published [**Expo orbit**](https://docs.expo.dev/build/orbit/) which is a **macOS** and **Windows** app that accelerates your development workflow by allowing one-click installation and launch of builds or updates from **EAS**, **local files**, or **Snack projects** on simulators and physical devices. Today we will explore more details about Expo orbit.
 
 **CREDITS:** A big thanks to [**Kadi Kraman**](https://x.com/kadikraman) and [**Gabriel Donadel**](https://x.com/donadeldev) for their amazing talks on these topics at [**App Js Conf 2024**](https://x.com/appjsconf).
 
-$\textcolor{green}{\text{\textbf{NOTE:}}}$ If you want to learn more about **𝝠 Expo workflows (including Expo Go, Dev builds, prebuild, CNG, EAS, and Orbit)**, then read my detailed [**article**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md) on it.
+$\textcolor{green}{\text{\textbf{{NOTE:}}}}$ If you want to learn more about **𝝠 Expo workflows (including Expo Go, Dev builds, prebuild, CNG, EAS, and Orbit)**, then read my detailed [**article**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md) on it.
 
 # Before Expo orbit 😞
 
