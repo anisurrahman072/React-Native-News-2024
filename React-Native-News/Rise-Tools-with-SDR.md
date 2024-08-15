@@ -1,6 +1,8 @@
 # SDR (Server-Defined Rendering) now in React Native 🌞
 
-Hey React Native Developers,
+$\textcolor{chocolate}{\text{Posted on Aug 1, 2024}}$
+
+Hey **React Native 🩵** Developers,
 
 This week, an exciting conference called [**thegeekconf**](https://x.com/thegeekconf) (powered by [**GeekyAnts**](https://x.com/GeekyAnts)) on React Native and modern web technologies took place in Berlin. One of the great pieces of news is that during the conference, [**Mike**](https://x.com/grabbou) (Founder at [**Xplat Labs**](https://xplatlabs.com/), [**Callstack**](https://x.com/callstackio)) and [**Eric Vicenti**](https://x.com/EricVicenti) (CTO, Seed Hypermedia) presented [**Rise Tools**](https://rise.tools/), which launched just a couple of weeks ago. Since then, it has received a huge response from the React Native community.
 
@@ -176,3 +178,11 @@ Pretty cool **SSR**, right? But wait, did you notice that in the line above, we 
 In this rendering technique, the Server can send directly JSX components, which are fully interactive & dynamic UI components (Ex: custom sliders), to the client (web, desktop, or Mobile device). A couple of months ago, [**Evan Bacon**](https://x.com/Baconbrix) from the [**Expo**](https://x.com/expo) team introduced **React Server Components** across all platforms (web, desktop, mobile) via the **Expo Router** at **React Conf 2024**. 🎯
 
 Now, consider this: in all CSR, SSR, and RSC, we define our JS components on the client side (e.g., mobile). Yes, that’s why we can’t control the rendering behavior within a second, as demanded by our marketing team. To solve this, Server-Defined Rendering (SDR) comes into play. With SDR, we define components on the server, allowing us to easily control the rendering behavior of the app without rebuilding it.
+
+# That's All 🙋‍♂️
+
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
+
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
