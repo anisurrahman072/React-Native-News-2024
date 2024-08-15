@@ -1,6 +1,6 @@
 # React Native Now with On-Device ML (Machine Learning) Expertise 🔥
 
-**$\color{grey}DATE: $** $\color{grey} Aug 15, 2024$
+$\color{darkgray} Date: Aug 15, 2024$
 
 Hey **React Native 🩵** Developers,
 
