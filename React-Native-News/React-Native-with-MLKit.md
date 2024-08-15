@@ -1,12 +1,12 @@
 # React Native Now with On-Device ML (Machine Learning) Expertise 🔥
 
-Hey React Native Developers,
+Hey **React Native 🩵** Developers,
 
 A few months ago, [**Software Mansion**](https://x.com/swmansion) organized [**App JS Conf 2024**](https://x.com/appjsconf). The exciting news from that conference is that the [**Infinite Red**](https://x.com/infinite_red) team has integrated on-device machine learning into React Native using [**Google ML Kit**](https://developers.google.com/ml-kit). Today, we will explore [**Gant Laborde**](https://x.com/GantLaborde)’s presentation at the conference on the newly created [**React Native MLKit**](https://docs.infinite.red/react-native-mlkit/) package.
 
 ![image.png](../images/GoogleMLKit/image.png)
 
-**`NOTE:`** If you want to learn more about all the exciting talks at [**App JS Conf 2024**](https://appjs.co/), please take a look at **my previous** news.
+**`NOTE:`** You can learn more about all the exciting talks at [**App JS Conf 2024**](https://appjs.co/) from [**here**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/App-Js-Conf-2024.md).
 
 # Before the Google ML Kit
 
@@ -205,3 +205,11 @@ After successfully running the app, you will see screens like the ones below, wh
 The team has surprisingly published the demo app on both the [**Google Play Store**](https://play.google.com/store/apps/details?id=red.infinite.reactnativemlkit.example) and [**App Store**](https://apps.apple.com/us/app/react-native-mlkit/id6504584042). You can download the app instantly and explore all the available features of **React Native MLKit.**
 
 ![Screenshot 2024-08-12 at 2.45.38 AM.png](../images/GoogleMLKit/image9.png)
+
+# That's All 🙋‍♂️
+
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
+
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
