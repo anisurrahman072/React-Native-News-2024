@@ -1,6 +1,6 @@
 # **The Magic of new Expo Orbit 🚀**
 
-$\textcolor{chocolate}{\text{Posted on Jun 27, 2024}}$
+$\textcolor{chocolate}{\text{\textbf{Posted on Jun 27, 2024}}}$
 
 Hey **React Native 🩵** Developers,
 
@@ -8,7 +8,7 @@ The [**Expo**](https://x.com/expo) team has made mobile app development super in
 
 **CREDITS:** A big thanks to [**Kadi Kraman**](https://x.com/kadikraman) and [**Gabriel Donadel**](https://x.com/donadeldev) for their amazing talks on these topics at [**App Js Conf 2024**](https://x.com/appjsconf).
 
-$\textcolor{green}{\text{NOTE:}}$ If you want to learn more about **𝝠 Expo workflows (including Expo Go, Dev builds, prebuild, CNG, EAS, and Orbit)**, then read my detailed [**article**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md) on it.
+$\textcolor{green}{\text{\textbf{NOTE:}}}$ If you want to learn more about **𝝠 Expo workflows (including Expo Go, Dev builds, prebuild, CNG, EAS, and Orbit)**, then read my detailed [**article**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md) on it.
 
 # Before Expo orbit 😞
 
