@@ -1,6 +1,8 @@
 # All about React Native New Architecture 🎯
 
-Hey **React native** Developers,
+$\textcolor{chocolate}{\text{Posted on July 11, 2024}}$
+
+Hey **React Native 🩵** Developers,
 
 A couple of months ago, the **React Native** team released version **0.74**, which includes Bridgeless Mode as the default when the New Architecture is enabled. They also mentioned that by 2024, the New Architecture itself will become the default. Additionally, they created a discussion on GitHub to notify library maintainers about upgrading their libraries to support the new architecture.
 
@@ -152,3 +154,11 @@ Three weeks ago [Software Mansion](https://x.com/swmansion) team made all the ne
 ### Flash List
 
 The [**shopify**](https://x.com/ShopifyEng) team also integrated **Fabric** into the **Flash List** just 3 weeks ago & made all the necessary changes for it. ([**PR Link**](https://github.com/Shopify/flash-list/pull/550))
+
+# That's All 🙋‍♂️
+
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
+
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
