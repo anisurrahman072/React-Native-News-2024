@@ -1,4 +1,4 @@
-# React Native Now with On-Device ML (Machine Learning) Expertise 🔥
+# React Native now with On-Device ML (Machine Learning) Expertise 🔥
 
 $\textcolor{gray}{\text{Date: Aug 15, 2024}}$
 
