@@ -2,6 +2,12 @@
 
 $\textcolor{gray}{\text{Date: Aug 15, 2024}}$
 
+\begin{center}
+\includegraphics{path_to_profile_picture.jpg} \\
+**Anisur Rahman** \\
+28 min read \quad \today
+\end{center}
+
 Hey **React Native 🩵** Developers,
 
 A few months ago, [**Software Mansion**](https://x.com/swmansion) organized [**App JS Conf 2024**](https://x.com/appjsconf). The exciting news from that conference is that the [**Infinite Red**](https://x.com/infinite_red) team has integrated on-device machine learning into React Native using [**Google ML Kit**](https://developers.google.com/ml-kit). Today, we will explore [**Gant Laborde**](https://x.com/GantLaborde)’s presentation at the conference on the newly created [**React Native MLKit**](https://docs.infinite.red/react-native-mlkit/) package.
