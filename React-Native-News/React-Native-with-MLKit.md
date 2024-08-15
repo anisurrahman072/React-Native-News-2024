@@ -1,6 +1,6 @@
 # On-Device ML (Machine Learning) arrives for React Native 🔥
 
-$\textcolor{goldenrod}{\text{Posted on Aug 15, 2024}}$
+$\textcolor{chocolate}{\text{Posted on Aug 15, 2024}}$
 
 Hey **React Native 🩵** Developers,
 
