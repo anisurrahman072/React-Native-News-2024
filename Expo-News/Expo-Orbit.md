@@ -2,7 +2,7 @@
 
 $\textcolor{chocolate}{\text{\textbf{Posted on Jun 27, 2024}}}$
 
-$${\underline{Posted on Jun 27, 2024}}$$
+$\underline{Posted on Jun 27, 2024}$
 
 Hey **React Native 🩵** Developers,
 
