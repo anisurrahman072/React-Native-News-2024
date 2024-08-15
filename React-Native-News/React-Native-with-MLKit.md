@@ -1,4 +1,4 @@
-# React Native now with On-Device ML (Machine Learning) Expertise 🔥
+# On-Device ML (Machine Learning) arrives for React Native 🔥
 
 $\textcolor{gray}{\text{Date: Aug 15, 2024}}$
 
