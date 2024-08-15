@@ -1,6 +1,8 @@
 # What’s new in App.js Conf 2024?
 
-Hey React Native Developers,
+$\textcolor{chocolate}{\text{\textbf{Posted on Jun 6, 2024}}}$
+
+Hey **React Native 🩵** Developers,
 
 One of the biggest and most exciting conferences on **React Native**, organized by [**Software Mansion**](https://x.com/swmansion) with [**Expo**](https://x.com/expo) as the main partner and [notJust.dev](https://www.notjust.dev/) as the Media Partner among others, has recently concluded. The three-day event started on May 22nd, filled with exciting announcements. Let’s dive in 🚀
 
@@ -216,3 +218,11 @@ The React Native core team has recommended these use cases for when you can buil
 2. **A React Native expert** and want to adjust it to suit your company’s way of doing things.
 3. **Aiming** to adapt React Native for new platforms, like visionOS.
 4. **A company** that has special needs, like legal or licensing issues, that prevent using available frameworks.
+
+# That's All 🙋‍♂️
+
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
+
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
