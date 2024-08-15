@@ -1,6 +1,8 @@
 # 𝝠 Expo workflows: Expo Go, Dev builds, prebuild, CNG, EAS, Orbit
 
-Hey **React Native** Developers,
+$\textcolor{chocolate}{\text{Posted on Jun 27, 2024}}$
+
+Hey **React Native 🩵** Developers,
 
 The [**Expo**](https://x.com/expo) team has made mobile app development super interesting by providing multiple ways to build your **React Native** app. You can build your app locally or even in the cloud using [**EAS (Expo Application Services)**](https://expo.dev/eas). Additionally, you can build your app by only writing JS code through [**Expo Go**](https://expo.dev/go) or by writing both JS code and Native Code through the [**Development Build**](https://docs.expo.dev/develop/development-builds/create-a-build/). Furthermore, you can run and build your app (or APK) or any web demo projects (snacks) on a real device, simulators, or emulators in just under 5 seconds using [**Expo Orbit**](https://docs.expo.dev/build/orbit/).
 
@@ -139,3 +141,11 @@ brew install expo-orbit
 ```
 
 **NOTE:** You can download Orbit for **Windows** directly from the [GitHub releases](https://github.com/expo/orbit/releases/tag/expo-orbit-v2.0.0-preview.1).
+
+# That's All 🙋‍♂️
+
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
+
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
