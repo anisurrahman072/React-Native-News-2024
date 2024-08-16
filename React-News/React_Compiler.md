@@ -7,6 +7,7 @@ Hey **React Native 🩵** Developers,
 The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/) organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting talks. One of the most exciting talks was on **❝ React Compiler now in Experimental Release ❞**. Today, we will explore more details about it! 🚀
 
 $\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about all the exciting talks at [**React Conf 2024**](https://conf.react.dev/), then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md) on it.
+.
 
 # Back to Stage 🙋‍♂️
 
