@@ -4,15 +4,40 @@ $\textcolor{chocolate}{\text{\textbf{Posted on May 30, 2024}}}$
 
 Hey **React Native 🩵** Developers,
 
-The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/) organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting talks. One of the most exciting talks was on **❝ RSC now in React 19 ❞**. Today, we will explore more details about it! 🚀
+The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/) organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting talks. One of the most exciting talks was on **❝ RSC now in All Platforms by Expo Router ❞**. Today, we will explore more details about it! 🚀
 
 $\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about all the exciting talks at [**React Conf 2024**](https://conf.react.dev/), then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md) on it.
 
 # Back to Stage 🙋‍♂️
 
-So, the most exciting news from **React Conf 2024** is that [**Evan Bacon**](https://x.com/Baconbrix) from the [**Expo**](https://x.com/expo) team has introduced **React Server Components** across all platforms (web, desktop, mobile) via the **Expo Router**.
+So, [**Evan Bacon**](https://x.com/Baconbrix) from the [**Expo**](https://x.com/expo) team has introduced **React Server Components** across all platforms (web, desktop, mobile) via the **Expo Router**.
 
-To learn more about this talk, let’s first understand what the Expo Router is.
+To learn more about this talk, let’s first understand what is **RSC**.
+
+# What is RSC?
+
+**RSC (React Server Component)** is a rendering technique where the Server can send fully interactive, dynamic UI components (Ex: custom sliders) to the client (web, desktop, or Mobile device).
+
+**RSC** allows developers to write components that render on both the **server** and the **client**. It also allows for selective rendering of components on the server, which means only the necessary components are rendered, reducing the server’s computational load. In RSC, initial rendering happens on the server, improving performance and reducing user wait time.
+
+$\textcolor{crimson}{\text{\textbf{NOTE:}}}$ 2 more rendering techniques in React World came before the birth of **RSC**.
+
+- Client Side Rendering (CSR)
+- Server Side Rendering (SSR)
+
+### Client Side Rendering (CSR)
+
+In this rendering technique, the final HTML content and user interface (UI) components are generated on the client's browser or Mobile app using JavaScript.
+
+Client-side rendering can cause slow performance and SEO issues, so SSR (Server Side Rendering) came to improve loading times and page visibility for search engines.
+
+### Server Side Rendering (SSR)
+
+This rendering technique is used in web development where the web page's content is rendered on the server instead of the client's browser & then sent to the device as JSON (a static UI representation) which makes the UX (user experience) faster page transitions & better SEO.
+
+Pretty cool **SSR**, right? But wait, did you notice that in the line above, we mentioned **SSR uses JSON** (basically HTML)? Yes, that **JSON** is not interactive. So, to create a dynamic and interactive UI, RSC came into the spotlight 💯.
+
+Pretty Cool! Now let's get into **Expo Router** 🚀
 
 # The Expo Router
 
@@ -28,9 +53,9 @@ There are some mobile apps (e.g., Lyft, Netflix, Reddit) that implement a server
 
 Here, **RSC** (React Server Components) **has** advanced this concept by directly sending JSX components from the server to the client (web, desktop, or mobile device) to handle user interactions.
 
-# RSC with Expo Router
+# RSC with Expo Router 💥
 
-The main goal of Expo Router is to make this server-driven UI interactive for developers. Below, we see three mobile applications that were showcased at the conference.
+The main goal of **Expo Router** is to make this server-driven UI interactive for developers. Below, we see three mobile applications that were showcased at the conference.
 
 1. **ChatGPT 4 App:** It utilizes a server-driven UI with JSON. Since JSON is a static UI representation, it does not allow users to interact with the UI (e.g., clicking a button to reveal more data about an image).
 2. **Gemini AI App:** It is the same as the ChatGPT 4 application.
@@ -62,3 +87,11 @@ These are the key points that an **RSC payload** carries and executes during the
 Below is the final data pattern illustrating how the **RSC server** transmits data to the client (web, desktop, or mobile), as presented by **Evan Bacon** on stage.
 
 ![alt text](../images/ReactConf2024/image-3.png)
+
+# That's All 🙋‍♂️
+
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
+
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
