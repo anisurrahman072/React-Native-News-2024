@@ -1,6 +1,8 @@
 # React Native V0.74 — Stable is out 🚀
 
-Hi **React Native** Developers,
+$\textcolor{chocolate}{\text{\textbf{Posted on May 2, 2024}}}$
+
+Hey **React Native 🩵** Developers,
 
 Exciting news in the world of React Native is that **V0.74** was released just a couple of days ago with over **1600 commits**. The highlights are:
 
@@ -16,7 +18,7 @@ Let’s dive into each of the new highlights.
 
 ![](https://cdn-images-1.medium.com/max/5760/1*pJQga189wcrMpV8J0chYxg.png)
 
-## Yoga 3.0
+# Yoga 3.0
 
 Let's understand first what **yoga** is in React Native.
 
@@ -75,7 +77,7 @@ So, in Yoga-2, if you apply a **‘row-reverse’** flex-direction with **“mar
 
 - **'static'** property for position style
 
-## **New Architecture: Bridgeless by Default**
+# **New Architecture: Bridgeless by Default**
 
 ### Old Architecture
 
@@ -107,7 +109,7 @@ When you enable New Architecture in your React Native app with **V0.74**, you wi
 
 That’s it 🚀. From React Native **V0.74**, you **don’t need to enable Bridgeless mode manually** after enabling New Architecture 💯
 
-## **New Architecture: Batched onLayout Updates**
+# **New Architecture: Batched onLayout Updates**
 
 Another great news is that the React Native team not only made the New Architecture **Bridgeless Mode** the default, but they also improved this architecture to handle batched **onLayout** updates (executing multiple updates in a single rendering). This optimization enhances performance by minimizing layout-related computations during rendering.
 
@@ -184,14 +186,16 @@ A good summary in the below image on **“onLayout”** batch update 👇
 
 ![](https://cdn-images-1.medium.com/max/5760/1*fMOuEt9ovEuLiZtKcbwvFg.png)
 
-## **Yarn 3 for New Projects**
+# **Yarn 3 for New Projects**
 
 **Yarn 3** is now the default JavaScript package manager for new projects initialized with React Native Community CLI. This replaces Yarn Classic **(1.x)**, which was deprecated and previously used as the default.
 
 Yarn 3 speeds up the process of installing and updating dependencies and optimizes how dependencies are stored.
 
-## That’s it 🙌
+# That's All 🙋‍♂️
 
-React Native version **0.74** introduced significant improvements in component layout, architecture, batched onLayout updates, and integration with Yarn 3.
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
 
-### [🙏 If you find my R&D helpful, please give a STAR ⭐️](https://github.com/anisurrahman072/React-Native-SDK-Research)
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
