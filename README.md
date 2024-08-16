@@ -11,7 +11,7 @@
 
 # Table of Contents (130+ Topics)
 
-### [✅ 020 - On-Device ML (Machine Learning) arrives for React Native 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
+### [✅ 022 - On-Device ML (Machine Learning) arrives for React Native 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
 
     - Before the Google ML Kit
     - Google ML Kit in action 💯
@@ -21,7 +21,7 @@
     - Code for Face Detection feature
     - Live App on Stores 🚀
 
-### [✅ 019 - SDR (Server-Defined Rendering) now in React Native 🤟](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Rise-Tools-with-SDR.md)
+### [✅ 021 - SDR (Server-Defined Rendering) now in React Native 🤟](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Rise-Tools-with-SDR.md)
 
     - Before Rise Tools
     - Rise Tools in action 🔥
@@ -33,7 +33,7 @@
     - Rise Playground
     - Other Rendering Processes (CSR, SSR, RSC)
 
-### [✅ 018 - All about React Native New Architecture 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
+### [✅ 020 - All about React Native New Architecture 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md)
 
     - The OLD Architecture
     - Bridge for communication: Drawbacks
@@ -53,7 +53,7 @@
     - Ship to New Architecture 🚀
     - Why invest in New Architecture 🎯
 
-### [✅ 017 - The Magic of new Expo Orbit 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Orbit.md)
+### [✅ 019 - The Magic of new Expo Orbit 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Orbit.md)
 
     - Installing Dev Builds pain
     - Running Snacks pain
@@ -64,7 +64,7 @@
     - Expo Orbit now supports multi-platforms 🚀
     - Install Expo Orbit
 
-### [✅ 016 - 𝝠 Expo New Workflows (Expo Go, Dev builds, prebuild, CNG, EAS, Orbit)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md)
+### [✅ 018 - 𝝠 Expo New Workflows (Expo Go, Dev builds, prebuild, CNG, EAS, Orbit)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md)
 
     - Expo Go
     - Development Build
@@ -73,20 +73,20 @@
     - EAS (Expo Application Services) Build
     - Expo Orbit
 
-### [✅ 015 - Rules of React Native Frameworks 👷‍♂️](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Frameworks.md)
+### [✅ 017 - Rules of React Native Frameworks 👷‍♂️](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Frameworks.md)
 
     - Either use framework, or build your own
     - React Native Core VS Frameworks
     - Rules of React Native Frameworks
     - When to build a new React Native Framework?
 
-### [✅ 014 - Starlink App was built with React Native 😳](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Starlink-with-React-Native.md)
+### [✅ 016 - Starlink App was built with React Native 😳](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Starlink-with-React-Native.md)
 
     - Sky Scanner By ExpoGL & Three.js
     - 3D Rendering in Starlink App
     - React Three Fiber
 
-### [✅ 013 - React Native IDE is now open 🎉](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-IDE.md)
+### [✅ 015 - React Native IDE is now open 🎉](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-IDE.md)
 
     - Too much stuff for setting up environment
     - React Native IDE in action 🚀
@@ -98,7 +98,7 @@
     - Better Components preview
     - Break Points without any other application 🚀
 
-### [✅ 012 - React Native Skia now has GPU access 💥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-with-GPU.md)
+### [✅ 014 - React Native Skia now has GPU access 💥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-with-GPU.md)
 
     - React Native Skia Video
     - Image Shaders API
@@ -107,7 +107,7 @@
     - WebGPU: 3D API with React Native Skia
     - New Architecture with React Native Skia
 
-### [✅ 011 - What’s new in App.js Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/App-Js-Conf-2024.md)
+### [✅ 013 - What’s new in App.js Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/App-Js-Conf-2024.md)
 
     - React Native Skia with GPU 🔥
     - React Native IDE
@@ -115,40 +115,40 @@
     - Starlink with React Native 💯
     - React Native Frameworks
 
-### [✅ 010 - React Native for Apple Vision Pro 👨‍🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/RN-for-Apple-Vision-Pro.md)
+### [✅ 012 - React Native for Apple Vision Pro 👨‍🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/RN-for-Apple-Vision-Pro.md)
 
     - React Native for Apple Vision Pro
     - React Native VisionOS SDK
     - Live Demo
 
-### [✅ 009 - React Router V7 announced as Remix 🤷‍♂️](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Router_V7.md)
+### [✅ 011 - React Router V7 announced as Remix 🤷‍♂️](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Router_V7.md)
 
     - React Router v7 & it's background
     - The React Router
     - Vite Plugin for Remix
 
-### [✅ 008 - React Compiler (Now in Experimental Release 🙌)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Compiler.md)
+### [✅ 010 - React Compiler (Now in Experimental Release 🙌)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_Compiler.md)
 
     - React Compiler
     - How does React Compiler work?
     - What React Compiler memoize?
     - Rules of React
 
-### [✅ 007 - RSC (React Server Components) now in All Platforms by Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
+### [✅ 009 - RSC (React Server Components) now in All Platforms by Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
 
     - The Expo Router
     - Server-driven UI: RSC
     - RSC with Expo Router
     - RSC data pattern
 
-### [✅ 006 - RSC (React Server Component) now in React 19 💯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_19_RC.md)
+### [✅ 008 - RSC (React Server Component) now in React 19 💯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-News/React_19_RC.md)
 
     - React 19 RC (Release Candidate)
     - What is RSC?
     - Client Side Rendering (CSR)
     - Server Side Rendering (SSR)
 
-### [✅ 005 - What's new in React Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md)
+### [✅ 007 - What's new in React Conf 2024?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md)
 
     - React 19 RC (Release Candidate)
     - React Server Components in Expo Router
@@ -156,7 +156,13 @@
     - React Router v7
     - React Native for Apple Vision Pro
 
-### [✅ 004 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-SDK-Releases/Expo-Sdk51.md)
+### [✅ 006 - New Expo Fingerprint for Native Runtime 🎯](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Fingerprint.md)
+
+    - What is Fingerprint?
+    - @expo/fingerprint in action
+    - Why @expo/fingerprint?
+
+### [✅ 005 - What's new in 𝝠 Expo SDK 51?](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-SDK-Releases/Expo-Sdk51.md)
 
     - Added support for Bridgeless Mode
     - "Next" Camera and SQLite APIs are now the defaults
@@ -166,6 +172,12 @@
     - Expo Router v3.5
     - EAS Update: Rollout new web UI
     - New project template 🚀
+
+### [✅ 004 - Yoga 3.0 has been released 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/Yoga-V3.md)
+
+    - Yoga: The Layout Engine
+    - Yoga 3.0 — what’s new?
+    - Yoga 3.0 solved "row-reverse" issue 💯
 
 ### [✅ 003 - React Native V0.74 — Stable is out 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Releases/React-Native-V0.74.md)
 
