@@ -88,7 +88,7 @@
 
 ### [✅ 013 - React Native IDE is now open 🎉](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-IDE.md)
 
-    - Too much stuff for setting up environment 🤦
+    - Too much stuff for setting up environment
     - React Native IDE in action 🚀
     - Snap Recording
     - Component Inspector
