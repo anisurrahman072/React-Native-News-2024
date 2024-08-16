@@ -1,4 +1,4 @@
-# React Native Skia V1.0 (New 5 Exciting Features for Animators)
+# React Native Skia V1.0 (New 5 Exciting Features for Animators) 🔥
 
 $\textcolor{chocolate}{\text{\textbf{Posted on Apr 11, 2024}}}$
 
