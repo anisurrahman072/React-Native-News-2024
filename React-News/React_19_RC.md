@@ -37,13 +37,13 @@ This rendering technique is used in web development where the web page's content
 
 Pretty cool **SSR**, right? But wait, did you notice that in the line above, we mentioned **SSR uses JSON** (basically HTML)? Yes, that **JSON** is not interactive. So, to create a dynamic and interactive UI, RSC came into the spotlight 💯.
 
-Pretty cool! Now let's see how **RSC (React Server Component)** can be in real life by using Expo Router 🚀
+Pretty cool! Now let's see how **RSC (React Server Component)** can be in real life by using [**Expo Router**](https://docs.expo.dev/router/introduction/) 🚀
 
 # React Server Components in Expo Router 🙌
 
 So, another most exciting news from **React Conf 2024** is that [**Evan Bacon**](https://x.com/Baconbrix) from the [**Expo**](https://x.com/expo) team has introduced **RSC** across all platforms (web, desktop, mobile) via the **Expo Router**.
 
-To learn more about this talk, let’s first understand what the Expo Router is.
+To learn more about this talk, let’s first understand what the **Expo Router** is.
 
 # The Expo Router
 
