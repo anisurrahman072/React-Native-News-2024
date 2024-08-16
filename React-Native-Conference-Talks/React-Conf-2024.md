@@ -1,8 +1,10 @@
 # What's New In React Conf 2024? 🚀
 
-Hey **React Native** Developers,
+$\textcolor{chocolate}{\text{\textbf{Posted on May 30, 2024}}}$
 
-The biggest **React** Conference, organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting announcements. Let’s dive in 🚀
+Hey **React Native 🩵** Developers,
+
+The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/) organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting announcements. Let’s dive in 🚀
 
 1. React 19 RC (Release Candidate)
 2. React Server Components in Expo Router 🔥
@@ -213,8 +215,10 @@ npx @callstack/react-native-visionos@latest init NotJustDevVisionApp
 
 ![alt text](<../images/ReactConf2024/Untitled design (7) (1) (1).gif>)
 
-# **That’s it 🙌**
+# That's All 🙋‍♂️
 
-React Conf 2024’s key announcements included the **open-sourcing of the React Compiler**, the release candidate for **React 19**, **React Server Components (RSC)** in **Expo Router**, and **React Router v7**, among other updates.
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
 
-### [🙏 If you find my R&D helpful, please give a STAR ⭐️](https://github.com/anisurrahman072/React-Native-SDK-Research)
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
