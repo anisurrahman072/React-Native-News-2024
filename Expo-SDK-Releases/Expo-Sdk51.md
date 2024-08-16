@@ -150,4 +150,3 @@ I hope you enjoyed reading it. It would be really great if you could consider gi
 # About Author 👷‍♂️
 
 I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
-.
