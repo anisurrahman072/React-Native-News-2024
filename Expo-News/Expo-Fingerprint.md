@@ -8,7 +8,7 @@ The 𝝠 [**Expo**](https://x.com/expo) team has just released **SDK 51**, packe
 
 In **Expo SDK 51**, the **Fingerprint runtime** version policy has been promoted from experimental status to **beta**. Let’s understand details about it.
 
-$\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about the **𝝠 Expo SDK 51** release, then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/Expo-Go-to-EAS-build.md) on it.
+$\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about the **𝝠 Expo SDK 51** release, then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-SDK-Releases/Expo-Sdk51.md) on it.
 
 # What is **Fingerprint?**
 
