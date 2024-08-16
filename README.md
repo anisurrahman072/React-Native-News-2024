@@ -200,7 +200,7 @@
     - SDK: react-native-screens/native-stack
     - SDK: react-native-reanimated V3.9 (pre-release)
 
-### [✅ 001 - React Native Skia V1.0 (New 5 Exciting Features for Animators)](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-V1.0.md)
+### [✅ 001 - React Native Skia V1.0 (New 5 Exciting Features for Animators) 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-V1.0.md)
 
     - React Native Skia Background Research
     - Install React Native Skia
