@@ -2,7 +2,7 @@
 
 $\textcolor{chocolate}{\text{\textbf{Posted on May 30, 2024}}}$
 
-Hey **React Native 🩵** Developers
+Hey **React Native 🩵** Developers,
 
 The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/) organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting talks. One of the most exciting talks was on **❝ RSC now in React 19 ❞**. Today, we will explore more details about it! 🚀
 
