@@ -1,8 +1,10 @@
 # 🚀 What’s new in 𝝠 Expo SDK 51?
 
-Hey **React Native** Developers,
+$\textcolor{chocolate}{\text{\textbf{Posted on May 16, 2024}}}$
 
-𝝠 Expo team has just released **SDK 51**, packed with amazing features and improvements, including React Native V0.74. Let’s dive into a quick introduction with major highlights!
+Hey **React Native 🩵** Developers,
+
+𝝠 [**Expo**](https://x.com/expo) team has just released **SDK 51**, packed with amazing features and improvements, including **React Native V0.74**. Let’s dive into a quick introduction with major highlights!
 
 1. **Added support for Bridgeless Mode**
 2. **"Next" Camera and SQLite APIs are now the defaults**
@@ -141,8 +143,10 @@ The Expo team has simplified the process of beginning development with **SDK 51*
 
 ![alt text](../images/ExpoSdk51/image-4.png)
 
-# **That’s it 🙌**
+# That's All 🙋‍♂️
 
-Expo SDK 51 features React Native 0.74, supports the New Architecture bridgeless mode across most Expo modules, introduces a new default project template, and defaults to the “Next” Camera and SQLite APIs, with legacy APIs available during this SDK cycle.
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
 
-### [🙏 If you find my R&D helpful, please give a STAR ⭐️](https://github.com/anisurrahman072/React-Native-SDK-Research)
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
