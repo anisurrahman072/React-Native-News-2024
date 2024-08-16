@@ -12,7 +12,7 @@ In today’s newsletter, we’ll dive into the code and explore how we can harne
 
 Before we delve further, let’s explore the essential groundwork of React Native Screens.
 
-## The React-Native-Screens library
+# The React-Native-Screens library
 
 When building React Native applications, **effective navigation** is essential. **React Native Screens**, developed by Software Mansion, provides **native navigation primitives** specifically tailored for React Native apps. These primitives correspond to **native components** offered by your phone’s operating system. By leveraging these components, **React-native-screens** enhances performance and ensures that your app operates seamlessly.
 
@@ -26,7 +26,7 @@ Some of the most popular full-featured navigation libraries are:
 
 We will use [react-navigation](https://github.com/react-navigation) or this newsletter. Let’s get cooking with it! 🍟.
 
-## Custom Screen Transitions based on Gesture
+# Custom Screen Transitions based on Gesture
 
 From now on, in React Native apps, developers can apply a screen transition effect based on users’ gestures (like swipe up, swipe left, etc) while going back to the previous screen. To make this feature ready, three open-source teams from Software Mansion came to the table.
 
@@ -40,7 +40,7 @@ All the teams have published their dependencies for this feature in their latest
 
 In the next section, we will explore the necessary additions or upgrades to our app, enabling the implementation of this feature.
 
-## Install with React-Navigation
+# Install with React-Navigation
 
 To enable Custom Screen Transitions with gesture let’s install the following packages.
 
@@ -64,7 +64,7 @@ To enable Custom Screen Transitions with gesture let’s install the following p
 
 You can check the reanimated **V3.9** pre-release note from here [(Change Log of reanimated 3.9.0-rc.0)](https://github.com/software-mansion/react-native-reanimated/releases/tag/3.9.0-rc.0).
 
-## Code Example
+# Code Example
 
 To enable Custom Screen Transitions based on gestures, we need to modify our **navigation file** (the file that declares the names of each screen to navigate). We will use **“App.js”** as our navigation file in this example.
 
