@@ -134,7 +134,7 @@
     - What React Compiler memoize?
     - Rules of React
 
-### [✅ 007 - RSC (React Server Components) now in All Platforms By Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
+### [✅ 007 - RSC (React Server Components) now in All Platforms by Expo Router 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/Expo-News/RSC_in_Expo_Router.md)
 
     - The Expo Router
     - Server-driven UI: RSC
