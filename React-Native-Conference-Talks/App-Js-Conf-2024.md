@@ -148,7 +148,7 @@ The **Expo Router** AI app (the rightmost app below) uses Server-driven UI but w
 
 ![](../images/AppJsConf2024/img16.gif)
 
-**NOTE:** **Evan Bacon** delivered the same talk a couple of weeks ago at React Conf 2024, and we have already explained this talk in detail in the previous newsletter **“🚀 What’s new in React Conf 2024”.** You will also find it as a blog post on the [**NotJustDev website**](https://www.notjust.dev/blog) later. 💯
+$\textcolor{crimson}{\text{\textbf{NOTE:}}}$ **Evan Bacon** delivered the same talk a couple of weeks ago at React Conf 2024, and I have already explained this talk in detail in another [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md). 💯
 
 # Starlink with React Native
 
