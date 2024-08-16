@@ -1,4 +1,4 @@
-# React Native Screens V3.30: What’s New!
+# What's new in React-Native-Screen V3.3 🙌
 
 $\textcolor{chocolate}{\text{\textbf{Posted on Apr 18, 2024}}}$
 
