@@ -98,7 +98,7 @@
     - Better Components preview
     - Break Points without any other application 🚀
 
-### [✅ 012 - React Native Skia now with GPU 💥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-with-GPU.md)
+### [✅ 012 - React Native Skia now has GPU access 💥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-Skia-with-GPU.md)
 
     - React Native Skia Video
     - Image Shaders API
