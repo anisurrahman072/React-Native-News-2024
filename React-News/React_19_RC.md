@@ -8,7 +8,7 @@ The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/)
 
 $\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about all the exciting talks at [**React Conf 2024**](https://conf.react.dev/), then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md) on it.
 
-# Back to stage 😃
+# Back to Stage 😃
 
 So, the **React** team announced **React 19** as **RC (Release Candidate)** which means React 19 will be stable in the next few weeks. Also, **React 19 RC** is now available on npm as **V18.3**. One of the most exciting parts of React 19 is that **RSC (React Server Component)** is now stable and will not break between major versions. Let’s explore RSC in-depth. 🚀
 

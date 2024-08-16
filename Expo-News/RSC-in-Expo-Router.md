@@ -1,17 +1,20 @@
 # RSC (React Server Components) now in All Platforms by Expo Router 🔥
 
-Hey **React Native** Developers,
+$\textcolor{chocolate}{\text{\textbf{Posted on May 30, 2024}}}$
 
-The biggest **React** Conference, organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting announcements.
+Hey **React Native 🩵** Developers,
 
-![alt text](../images/ReactConf2024/image.png)
-Picture credit by [@mattcarrollcode](https://x.com/mattcarrollcode)
+The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/) organized by [**Meta**](https://x.com/Meta) and [**Callstack**](https://x.com/callstackio), wrapped up recently. It was a two-day event that started on May 15th, filled with exciting talks. One of the most exciting talks was on **❝ RSC now in React 19 ❞**. Today, we will explore more details about it! 🚀
+
+$\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about all the exciting talks at [**React Conf 2024**](https://conf.react.dev/), then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md) on it.
+
+# Back to Stage 🙋‍♂️
 
 So, the most exciting news from **React Conf 2024** is that [**Evan Bacon**](https://x.com/Baconbrix) from the [**Expo**](https://x.com/expo) team has introduced **React Server Components** across all platforms (web, desktop, mobile) via the **Expo Router**.
 
 To learn more about this talk, let’s first understand what the Expo Router is.
 
-### The Expo Router
+# The Expo Router
 
 Expo Router is the first file-based routing system to build react apps that run on both web & native platforms.
 
@@ -19,13 +22,13 @@ Expo Router is the first file-based routing system to build react apps that run 
 
 With the help of **Expo Router**, the RSC server can handle multi-platform requests. When a request is made from an iOS or Android device, or even from a web browser, the server recognizes the platform and renders the appropriate version of the server components.
 
-### Server-driven UI: RSC
+# Server-driven UI: RSC
 
 There are some mobile apps (e.g., Lyft, Netflix, Reddit) that implement a server-driven UI in their native applications, which can be quite complex to configure. They are using some common architecture such as JSON (a static UI representation by HTML for a custom native application). However, this JSON does not facilitate **user interaction** with the UI.
 
 Here, **RSC** (React Server Components) **has** advanced this concept by directly sending JSX components from the server to the client (web, desktop, or mobile device) to handle user interactions.
 
-### RSC with Expo Router
+# RSC with Expo Router
 
 The main goal of Expo Router is to make this server-driven UI interactive for developers. Below, we see three mobile applications that were showcased at the conference.
 
@@ -43,7 +46,7 @@ In the Expo Router AI app, we observed Evan Bacon demonstrating a Map view (belo
 
 Now, let’s learn a bit about the data pattern that RSC uses.
 
-### RSC data pattern
+# RSC data pattern
 
 When a **client** (web or mobile device) requests the Server then an **`RSC payload`** (static representation of the JSX code) is sent back with suspense (**loading components**) to keep the stream open.
 
