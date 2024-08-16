@@ -1,6 +1,8 @@
 # React Native Screens V3.30: What’s New!
 
-Hey **React Native** Developers,
+$\textcolor{chocolate}{\text{\textbf{Posted on Apr 18, 2024}}}$
+
+Hey **React Native 🩵** Developers,
 
 We’re thrilled to share some exciting news from **Software Mansion**! 🚀 In the ever-evolving world of React Native, they’ve made remarkable strides. Last month, they unveiled **react-native-screen** version 3.30, and it comes with a groundbreaking feature: **“Custom Screen Transitions Based on Gesture.”**
 
@@ -189,8 +191,10 @@ Design your screens (components) **ScreenA** and **ScreenB**. Reload your app, n
 
 ![](../images/ReactNativeScreen3.30/output.gif)
 
-## That’s it 🙌
+# That's All 🙋‍♂️
 
-The **V3.30** release in **React Native Screens** introduces enhanced transition animations for smoother and more visually appealing navigation when returning to the previous screen.
+I hope you enjoyed reading it. It would be really great if you could consider giving it a [**STAR**](https://github.com/anisurrahman072/React-Native-News-2024) ⭐️.
 
-### [🙏 If you find my R&D helpful, please give a STAR ⭐️](https://github.com/anisurrahman072/React-Native-SDK-Research)
+# About Author 👷‍♂️
+
+I'm Anis, **Sr. React Native Engineer** and the author of [**React Native Advanced Guide Book**]() with **1.7K STAR** ⭐️. Over 5 years in **React Native** and **Full Stack**, I’ve built numerous production-grade apps. You can **[🩵 CONNECT me in X](https://twitter.com/anis_RNCore)** for any consultation.
