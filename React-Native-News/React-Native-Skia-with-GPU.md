@@ -1,4 +1,4 @@
-# React Native Skia now with GPU 💥
+# React Native Skia now has GPU access 💥
 
 $\textcolor{chocolate}{\text{\textbf{Posted on Jun 6, 2024}}}$
 
