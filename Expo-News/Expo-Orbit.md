@@ -32,7 +32,7 @@ So, **Expo Orbit** makes all of the steps mentioned above as seamless as possibl
 
 ![download (6).gif](../images/ExpoGoToEASBuild/img5.gif)
 
-### Installing Dev Builds by Expo Orbit
+# Installing Dev Builds by Expo Orbit
 
 Also, now users can launch their builds from the website (Cloud builds) to Expo Orbit in a very easy manner, as shown below.
 
@@ -40,13 +40,13 @@ Also, now users can launch their builds from the website (Cloud builds) to Expo 
 
 With this significant progress, the Expo team announced that Expo Orbit speeds up by **10x** when installing builds 🔥.
 
-### Installing Snack projects by Expo Orbit
+# Installing Snack projects by Expo Orbit
 
 Similarly, you can also open **snack projects** using Expo Orbit within a couple of seconds, as shown below.
 
 ![download (8) (1).gif](../images/ExpoGoToEASBuild/img7.gif)
 
-### Installing EAS Updates
+# Installing EAS Updates
 
 Additionally, Expo Orbit can now install EAS updates (live app updates for a cloud build) from expo.dev on your devices or simulators, as shown below.
 
