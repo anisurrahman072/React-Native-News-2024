@@ -58,17 +58,17 @@ Hey, some of you may be worried about **ML (Machine Learning)** and **AI (Artifi
 
 Now, let’s take a look at all the features that are available in the **Google ML Kit** SDK.
 
-- Face Detection: Identifies and locates faces in images.
-- Barcode Scanning: Reads and processes barcodes (QR code, Linear format, etc).
-- Face Mesh: Detects detailed facial features (Ex: Location & shape of Eyes, Nose, etc).
-- Text Recognition: Extracts text from images.
-- Image Labeling: Identifies objects, locations, and activities from images.
-- Object Tracking: Locates and tracks object in real time directly from the camera.
-- Digital Ink: Identifies handwritten texts.
-- Pose Detection: Determines the position of the human body parts.
-- Selfie Segmentation: Separates users from the background in scenes.
-- Subject Segmentation: Isolates subjects (people, pets, or objects) from picture backgrounds.
-- Document Scanning: Detects document edges from the image & enhances quality. This feature can solve our above issue of Photoshop 💯.
+- **Face Detection**: Identifies and locates faces in images.
+- **Barcode Scanning**: Reads and processes barcodes (QR code, Linear format, etc).
+- **Face Mesh**: Detects detailed facial features (Ex: Location & shape of Eyes, Nose, etc).
+- **Text Recognition**: Extracts text from images.
+- **Image Labeling**: Identifies objects, locations, and activities from images.
+- **Object Tracking**: Locates and tracks object in real time directly from the camera.
+- **Digital Ink**: Identifies handwritten texts.
+- **Pose Detection**: Determines the position of the human body parts.
+- **Selfie Segmentation**: Separates users from the background in scenes.
+- **Subject Segmentation**: Isolates subjects (people, pets, or objects) from picture backgrounds.
+- **Document Scanning**: Detects document edges from the image & enhances quality. This feature can solve our above issue of Photoshop 💯.
 
 # Google ML Kit in React Native 🔥
 
