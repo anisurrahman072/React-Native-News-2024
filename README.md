@@ -13,7 +13,7 @@
 
 ### [✅ 023 - React Native V0.75 — Stable is out 🚀]()
 
-    - Coming soon on 29th August 🔥
+    - Coming soon on 31st August 🔥
 
 ### [✅ 022 - On-Device ML (Machine Learning) arrives for React Native 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
 
