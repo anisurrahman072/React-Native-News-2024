@@ -86,7 +86,7 @@ In the above code, we used the property **`gap`** with **`%`** for the **`i
 
 # **New Architecture Stabilization**
 
-Let’s first understand a bit about both the Old & New Architecture of React Native.
+Let’s first understand a bit about both the Old & [**New Architecture**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-New-Architecture.md) of React Native.
 
 ### **Old Architecture**
 
