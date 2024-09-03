@@ -1,6 +1,6 @@
 # React Native V0.75 — Stable is out 🚀
 
-$\textcolor{chocolate}{\text{\textbf{Posted on Aug 29, 2024}}}$
+$\textcolor{chocolate}{\text{\textbf{Posted on Aug 29, 2024}}}$, on $\textcolor{chocolate}{\text{\textbf{notjust.dev}}}$
 
 Hey **React Native 🩵** Developers,
 
