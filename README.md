@@ -11,7 +11,7 @@
 
 # Table of Contents (140+ Topics)
 
-<!-- 
+
 ### [✅ 023 - React Native V0.75 — Stable is out 🚀](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Releases/React-Native-V0.75.md)
 
     - Yoga 3.1
@@ -19,7 +19,6 @@
     - Recommendation to use Frameworks
     - Expo SDK 51 supports
     - Auto-linking performance improvements
--->
 
 ### [✅ 022 - On-Device ML (Machine Learning) arrives for React Native 🔥](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-News/React-Native-with-MLKit.md)
 
