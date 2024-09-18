@@ -1,6 +1,6 @@
 # SDR (Server-Defined Rendering) now in React Native 🌞
 
-$\textcolor{chocolate}{\text{Posted on Aug 1, 2024}}$
+$\textcolor{chocolate}{\text{Posted on Aug 1, 2024}}$, on $\textcolor{chocolate}{\text{\textbf{notjust.dev}}}$
 
 Hey **React Native 🩵** Developers,
 
