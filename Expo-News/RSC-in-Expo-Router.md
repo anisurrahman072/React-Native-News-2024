@@ -8,6 +8,8 @@ The biggest **React** Conference, [**React Conf 2024**](https://conf.react.dev/)
 
 $\textcolor{crimson}{\text{\textbf{NOTE:}}}$ If you want to learn more about all the exciting talks at [**React Conf 2024**](https://conf.react.dev/), then read my detailed [**article (news)**](https://github.com/anisurrahman072/React-Native-News-2024/blob/master/React-Native-Conference-Talks/React-Conf-2024.md) on it.
 
+![Untitled design (7)](https://github.com/user-attachments/assets/6c8914e3-d784-4aac-a8cc-e714317ffc08)
+
 # Back to Stage 🙋‍♂️
 
 So, [**Evan Bacon**](https://x.com/Baconbrix) from the [**Expo**](https://x.com/expo) team has introduced **React Server Components** across all platforms (web, desktop, mobile) via the **Expo Router**.
