@@ -1,6 +1,6 @@
 # RSC (React Server Components) now in All Platforms by Expo Router 🔥
 
-$\textcolor{chocolate}{\text{\textbf{Posted on May 30, 2024}}}$
+$\textcolor{chocolate}{\text{\textbf{Posted on May 30, 2024}}}$, on $\textcolor{chocolate}{\text{\textbf{notjust.dev}}}$
 
 Hey **React Native 🩵** Developers,
 
